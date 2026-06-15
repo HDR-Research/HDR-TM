@@ -1,0 +1,10 @@
+*.exr binary
+*.hdr binary
+*.rgbe binary
+*.pfm binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.mat binary
+*.mex* binary
+
