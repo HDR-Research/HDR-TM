@@ -1,4 +1,4 @@
-# HDR Tone Mapping: From Acquisition to Evaluation
+# 🌈 HDR Tone Mapping: From Acquisition to Evaluation
 
 Survey resources, MATLAB experiment results, and a reference Python
 implementation for:
@@ -10,7 +10,7 @@ This repository connects the full HDR imaging pipeline described in the survey
 with the MATLAB code used to generate the traditional TMO results, synchronized
 objective metric results, and a runnable Python port of the HDR Toolbox.
 
-> **Important implementation note:** The tone-mapped images and quantitative
+> ⚠️ **Important implementation note:** The tone-mapped images and quantitative
 > results reported in the manuscript were generated with the MATLAB
 > implementations and the original deep-learning repositories. The Python port
 > in `hdrtmo/` is provided for reference and convenient experimentation. It is
@@ -19,7 +19,7 @@ objective metric results, and a runnable Python port of the HDR Toolbox.
 > interpolation, color conversion, and floating-point behavior. Do not use the
 > Python output as a drop-in replacement when reproducing the paper tables.
 
-## Overview
+## 🌄 Overview
 
 HDR tone mapping compresses scene luminance into the range of a target display
 while attempting to preserve structure, local visibility, natural brightness,
@@ -40,7 +40,7 @@ The main message is practical: input encoding, luminance scale, color primaries,
 and display assumptions must be handled consistently before TMO performance can
 be compared fairly.
 
-## Repository Contents
+## 📦 Repository Contents
 
 | Path | Description |
 | --- | --- |
@@ -56,7 +56,7 @@ be compared fairly.
 The reference Python CLI exposes all 31 single-image tone-mapping operators
 migrated from `HDR_Toolbox-master/source_code/Tmo`.
 
-## HDR Dataset Summary
+## 🗂️ HDR Dataset Summary
 
 The datasets reviewed in the survey differ substantially in acquisition,
 encoding, scale, and intended use. `FFmpeg` in this table denotes the
@@ -92,7 +92,7 @@ Representative scenes from the 1,000-image survey dataset. Native PQ content
 is gamma-corrected here for visualization on conventional SDR displays.
 </em></p>
 
-## TMO Method Taxonomy
+## 🧭 TMO Method Taxonomy
 
 The survey groups traditional methods by spatial behavior and learning-based
 methods by model family.
@@ -148,7 +148,7 @@ in MATLAB; the learning-based result was generated with its original model
 implementation. These are not outputs of the reference Python port.
 </em></p>
 
-## Installation
+## ⚙️ Installation
 
 The following commands install the **reference Python port**, not the MATLAB
 benchmark implementation used for the paper.
@@ -167,7 +167,7 @@ List the available operators:
 hdrtmo --list-algorithms
 ```
 
-## Quick Start
+## 🚀 Quick Start
 
 Process one linear HDR image:
 
@@ -207,7 +207,7 @@ hdrtmo hdrimage output/all_tmos \
 See [`PYTHON_README.md`](PYTHON_README.md) for transfer functions, color
 primaries, parameters, output modes, and batch-processing examples.
 
-## Input Conventions
+## 🔁 Input Conventions
 
 The processing order is:
 
@@ -244,7 +244,7 @@ PQ uses absolute-luminance perceptual quantization, while HLG uses a
 broadcast-oriented relative transfer characteristic.
 </em></p>
 
-## Survey Benchmark
+## 📊 Survey Benchmark
 
 The survey dataset contains 1,000 PQ-encoded HDR images at `800 x 600`:
 600 training images and 400 test images. Objective evaluation uses TMQI,
@@ -314,7 +314,7 @@ Subjective JOD ranking from the 2AFC user study. Higher values indicate stronger
 perceptual preference.
 </em></p>
 
-## Reproducing Checks
+## ✅ Reproducing Checks
 
 The checks below validate the reference Python translation. Passing them does
 not imply pixel-wise parity with the MATLAB paper implementation.
@@ -341,7 +341,7 @@ reproduction of the manuscript benchmark.
 Metric reproduction scripts and the expected server-side directory conventions
 are documented in [`metrics/README.md`](metrics/README.md).
 
-## Citation
+## 📝 Citation
 
 The survey is currently distributed as a manuscript. Please update the venue,
 year, volume, pages, and DOI after publication.
@@ -359,13 +359,13 @@ year, volume, pages, and DOI after publication.
 When using the translated toolbox implementation, also cite the original HDR
 Toolbox and *Advanced High Dynamic Range Imaging (2nd Edition)*.
 
-## License
+## 📄 License
 
 The Python port is derived from the GPL-3.0-licensed HDR Toolbox and is
 distributed under the GNU General Public License v3.0. See [`LICENSE`](LICENSE)
 and the original notice in `HDR_Toolbox-master/license.txt`.
 
-## Contact
+## 📬 Contact
 
 - Qiulin Zeng: [qiulinzeng0722@163.com](mailto:qiulinzeng0722@163.com)
 - Ming Yu: [yuming03133@163.com](mailto:yuming03133@163.com)
