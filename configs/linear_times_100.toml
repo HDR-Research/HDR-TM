@@ -1,0 +1,21 @@
+[reader]
+preset = "custom"
+png_mode = "normalized"
+transfer = "linear_times_100"
+primaries = "rec2020"
+linear_scale = 1.0
+remove_specials_value = 0.0
+
+[operator]
+name = "reinhard"
+alpha = 0.0
+white_point = 0.0
+gamma = 2.2
+fstop = 0.0
+
+[color]
+enabled = true
+saturation = 0.5
+
+[output]
+bit_depth = 8

@@ -1,0 +1,75 @@
+[
+  {
+    "file": "hdrimage/507.exr",
+    "original_shape": [
+      2848,
+      4288,
+      3
+    ],
+    "test_shape": [
+      170,
+      256,
+      3
+    ],
+    "minimum": 0.0,
+    "maximum": 5893.75,
+    "mean": 75.40888095148412,
+    "tmo_primaries": "rec709/sRGB",
+    "gamut_conversion": "linear Rec.2020 to linear Rec.709; negative out-of-gamut values clamped to zero",
+    "loaded": true,
+    "format": "exr",
+    "source_dtype": "float32",
+    "preset": "custom",
+    "transfer": "linear_times_100",
+    "primaries": "rec2020"
+  },
+  {
+    "file": "hdrimage/black_032.png",
+    "original_shape": [
+      2160,
+      3840,
+      3
+    ],
+    "test_shape": [
+      144,
+      256,
+      3
+    ],
+    "minimum": 0.0,
+    "maximum": 507.91124939983905,
+    "mean": 3.5712490818417897,
+    "tmo_primaries": "rec709/sRGB",
+    "gamut_conversion": "linear Rec.2020 to linear Rec.709; negative out-of-gamut values clamped to zero",
+    "loaded": true,
+    "format": "png",
+    "source_dtype": "uint16",
+    "preset": "custom",
+    "transfer": "pq",
+    "primaries": "rec2020",
+    "png_mode": "normalized"
+  },
+  {
+    "file": "hdrimage/indoors_1.hdr",
+    "original_shape": [
+      2941,
+      3930,
+      3
+    ],
+    "test_shape": [
+      192,
+      256,
+      3
+    ],
+    "minimum": 0.0,
+    "maximum": 403.125,
+    "mean": 25.878492745691965,
+    "tmo_primaries": "rec709/sRGB",
+    "gamut_conversion": "linear Rec.2020 to linear Rec.709; negative out-of-gamut values clamped to zero",
+    "loaded": true,
+    "format": "hdr",
+    "source_dtype": "float32",
+    "preset": "custom",
+    "transfer": "linear_times_100",
+    "primaries": "rec2020"
+  }
+]

@@ -1,0 +1,4025 @@
+{
+  "group": "dnn",
+  "method": "lei21_CAN",
+  "hdr_dir": "/mnt/data_disk/HDRData/1000hdr/HDRtest",
+  "ldr_dir": "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN",
+  "selection": "last 400 references after filename sort",
+  "first_reference": "a2808-20080516_072208__MG_0018.exr",
+  "last_reference": "a4487-Duggan_090322_5971.exr",
+  "num_expected": 400,
+  "num_valid": 400,
+  "num_missing": 0,
+  "num_errors": 0,
+  "num_duplicate_output_ids": 1000,
+  "mean_tmqi_q": 0.8291113300241797,
+  "mean_tmqi_s": 0.8090904182231727,
+  "mean_tmqi_n": 0.2824064707168135,
+  "mean_tmqi2_q": 0.47290219665044864,
+  "mean_tmqi2_s": 0.7369838635100696,
+  "mean_tmqi2_n": 0.2088205297908278,
+  "mean_nlpd": 0.15394057866185903,
+  "missing": [],
+  "errors": [],
+  "duplicate_output_ids": {
+    "a0002": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0002.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0002-dgw_005.png"
+    ],
+    "a0004": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0004.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0004-jmac_MG_1384.png"
+    ],
+    "a0007": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0007.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0007-IMG_2480.png"
+    ],
+    "a0014": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0014.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0014-WP_CRW_6320.png"
+    ],
+    "a0015": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0015.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0015-DSC_0081.png"
+    ],
+    "a0016": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0016.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0016-jmac_MG_0795.png"
+    ],
+    "a0017": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0017.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0017-050710_031618__MG_3496.png"
+    ],
+    "a0019": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0019.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0019-jmac_MG_0653.png"
+    ],
+    "a0020": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0020.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0020-jmac_MG_6225.png"
+    ],
+    "a0021": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0021.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0021-07-11-28-at-09h22m57s-_MG_7427.png"
+    ],
+    "a0022": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0022.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0022-IMG_2380.png"
+    ],
+    "a0023": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0023.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0023-07-06-02-at-15h06m48-s_MG_1489.png"
+    ],
+    "a0027": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0027.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0027-IMG_3964.png"
+    ],
+    "a0028": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0028.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0028-_DSC0032.png"
+    ],
+    "a0029": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0029.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0029-jmac_DSC3974.png"
+    ],
+    "a0030": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0030.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0030-_MG_7844.png"
+    ],
+    "a0031": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0031.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0031-WP_CRW_0736.png"
+    ],
+    "a0033": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0033.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0033-KE_-2590.png"
+    ],
+    "a0034": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0034.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0034-LSYD4O2202.png"
+    ],
+    "a0036": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0036.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0036-jn_2007_05_05__183.png"
+    ],
+    "a0042": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0042.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0042-060813_155838__MG_6361.png"
+    ],
+    "a0043": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0043.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0043-07-11-27-at-12h09m46s-_MG_7307.png"
+    ],
+    "a0044": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0044.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0044-JI2E0511.png"
+    ],
+    "a0045": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0045.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0045-20050320_081337__E6B1177.png"
+    ],
+    "a0055": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0055.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0055-050729_194412__I2E5282.png"
+    ],
+    "a0058": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0058.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0058-NKIM_MG_6121.png"
+    ],
+    "a0059": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0059.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0059-JI2E5556.png"
+    ],
+    "a0060": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0060.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0060-jmac_DSC3171.png"
+    ],
+    "a0068": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0068.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0068-LS051026_day_1_arive53.png"
+    ],
+    "a0070": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0070.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0070-IMG_4327.png"
+    ],
+    "a0076": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0076.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0076-jmac_MG_5736.png"
+    ],
+    "a0077": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0077.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0077-20080627_at_14h31m24__MG_0714.png"
+    ],
+    "a0079": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0079.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0079-IMG_4099.png"
+    ],
+    "a0082": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0082.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0082-IMG_4578.png"
+    ],
+    "a0083": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0083.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0083-jmac_MG_0082.png"
+    ],
+    "a0093": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0093.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0093-MB_070908_038.png"
+    ],
+    "a0103": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0103.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0103-jmac_MG_1394.png"
+    ],
+    "a0107": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0107.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0107-IMG_2837.png"
+    ],
+    "a0110": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0110.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0110-IMG_3981.png"
+    ],
+    "a0111": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0111.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0111-IMG_4425.png"
+    ],
+    "a0116": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0116.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0116-WP_IMG_0083.png"
+    ],
+    "a0118": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0118.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0118-20051223_103622__MG_0617.png"
+    ],
+    "a0121": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0121.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0121-jmac_MG_7813.png"
+    ],
+    "a0128": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0128.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0128-IMG_0793.png"
+    ],
+    "a0131": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0131.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0131-050801_142414__I2E5524.png"
+    ],
+    "a0135": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0135.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0135-IMG_2595.png"
+    ],
+    "a0138": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0138.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0138-_DSC2986.png"
+    ],
+    "a0139": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0139.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0139-060526_142248__MG_8130.png"
+    ],
+    "a0142": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0142.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0142-IMG_2048.png"
+    ],
+    "a0146": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0146.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0146-07-11-23-at-10h54m29s-_MG_6544.png"
+    ],
+    "a0151": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0151.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0151-JI2E3955.png"
+    ],
+    "a0158": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0158.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0158-051124_163114__I2E9732.png"
+    ],
+    "a0175": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0175.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0175-KE_-1376.png"
+    ],
+    "a0178": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0178.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0178-20050330_200118__E6B2943.png"
+    ],
+    "a0186": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0186.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0186-IMG_4587.png"
+    ],
+    "a0188": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0188.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0188-IMG_0344.png"
+    ],
+    "a0189": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0189.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0189-IMG_1799.png"
+    ],
+    "a0190": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0190.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0190-dgw_034.png"
+    ],
+    "a0193": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0193.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0193-IMG_4321.png"
+    ],
+    "a0195": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0195.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0195-_DGW6246.png"
+    ],
+    "a0197": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0197.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0197-Ja_Pe-32.png"
+    ],
+    "a0199": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0199.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0199-MB_060311_023.png"
+    ],
+    "a0201": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0201.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0201-MB_20030906_073.png"
+    ],
+    "a0205": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0205.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0205-NKIM_MG_6466.png"
+    ],
+    "a0207": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0207.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0207-jmac_MG_7695.png"
+    ],
+    "a0208": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0208.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0208-_DGW6392.png"
+    ],
+    "a0210": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0210.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0210-jmac_DSC0830.png"
+    ],
+    "a0212": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0212.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0212-IMG_0358.png"
+    ],
+    "a0214": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0214.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0214-IMG_1676.png"
+    ],
+    "a0225": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0225.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0225-dgw_127.png"
+    ],
+    "a0226": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0226.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0226-WP_CRW_4861.png"
+    ],
+    "a0231": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0231.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0231-_DSC1319.png"
+    ],
+    "a0237": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0237.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0237-_DSC9985.png"
+    ],
+    "a0241": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0241.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0241-NKIM_MG_6579.png"
+    ],
+    "a0243": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0243.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0243-IMG_5006.png"
+    ],
+    "a0244": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0244.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0244-GrassleyCase-5393.png"
+    ],
+    "a0245": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0245.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0245-IMG_4069.png"
+    ],
+    "a0246": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0246.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0246-IMG_1652.png"
+    ],
+    "a0250": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0250.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0250-IMG_5079.png"
+    ],
+    "a0251": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0251.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0251-DSC_0061-2.png"
+    ],
+    "a0252": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0252.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0252-jmac_DSC3250.png"
+    ],
+    "a0255": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0255.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0255-_DSC1448.png"
+    ],
+    "a0256": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0256.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0256-LS051026_day_2_arive51.png"
+    ],
+    "a0261": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0261.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0261-_DSC2228.png"
+    ],
+    "a0263": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0263.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0263-07-11-20-at-16h57m56s-_MG_5753.png"
+    ],
+    "a0267": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0267.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0267-NKIM_115.png"
+    ],
+    "a0270": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0270.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0270-JI2E3556.png"
+    ],
+    "a0272": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0272.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0272-050703_183414__I2E9359.png"
+    ],
+    "a0274": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0274.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0274-_DSC6439.png"
+    ],
+    "a0275": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0275.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0275-07-11-24-at-16h27m12s-_MG_6758.png"
+    ],
+    "a0278": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0278.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0278-Ja_Pe-11.png"
+    ],
+    "a0280": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0280.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0280-IMG_0854.png"
+    ],
+    "a0282": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0282.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0282-20060619_125715__MG_9197.png"
+    ],
+    "a0283": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0283.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0283-jn_20071207_Xmas_House_0121.png"
+    ],
+    "a0286": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0286.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0286-006hunwed.png"
+    ],
+    "a0287": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0287.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0287-050703_084540__I2E9191.png"
+    ],
+    "a0290": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0290.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0290-IMG_2741.png"
+    ],
+    "a0291": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0291.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0291-IMG_0115.png"
+    ],
+    "a0292": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0292.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0292-dgw_086.png"
+    ],
+    "a0293": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0293.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0293-DSC_0012-2.png"
+    ],
+    "a0294": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0294.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0294-20041221_192326_CRW_5437.png"
+    ],
+    "a0301": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0301.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0301-IMG_4669.png"
+    ],
+    "a0302": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0302.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0302-IMG_4108.png"
+    ],
+    "a0305": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0305.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0305-CRW_0278.png"
+    ],
+    "a0309": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0309.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0309-jmac_MG_4806.png"
+    ],
+    "a0312": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0312.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0312-_DSC5579.png"
+    ],
+    "a0313": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0313.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0313-_MG_7253.png"
+    ],
+    "a0315": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0315.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0315-DSC_0112.png"
+    ],
+    "a0318": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0318.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0318-IMG_4318.png"
+    ],
+    "a0321": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0321.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0321-KE_-0010.png"
+    ],
+    "a0323": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0323.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0323-07-06-27-at-13h56m27s-_MG_1782.png"
+    ],
+    "a0324": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0324.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0324-WP_CRW_4941.png"
+    ],
+    "a0331": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0331.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0331-MB_20030906_035.png"
+    ],
+    "a0336": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0336.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0336-07-08-11-at-16h57m13s-_MG_3305.png"
+    ],
+    "a0339": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0339.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0339-IMG_0111.png"
+    ],
+    "a0343": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0343.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0343-tc_DSC4155.png"
+    ],
+    "a0345": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0345.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0345-IMG_3353.png"
+    ],
+    "a0348": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0348.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0348-07-07-07-at-09h42m42s-_MG_2151.png"
+    ],
+    "a0349": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0349.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0349-jn_20081025_Kent_Shelter_068.png"
+    ],
+    "a0350": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0350.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0350-_DSC2622.png"
+    ],
+    "a0351": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0351.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0351-MB_070908_006.png"
+    ],
+    "a0354": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0354.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0354-07-07-17-at-23h28m36s-_MG_2372.png"
+    ],
+    "a0356": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0356.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0356-07-11-26-at-16h05m54s-_MG_7171.png"
+    ],
+    "a0359": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0359.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0359-IMG_4821.png"
+    ],
+    "a0365": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0365.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0365-jn_2007_05_09__516.png"
+    ],
+    "a0367": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0367.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0367-IMG_0338.png"
+    ],
+    "a0371": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0371.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0371-IMG_4770.png"
+    ],
+    "a0372": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0372.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0372-WP_CRW_6207.png"
+    ],
+    "a0374": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0374.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0374-IMG_4326.png"
+    ],
+    "a0377": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0377.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0377-IMG_3486.png"
+    ],
+    "a0378": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0378.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0378-_DGW6391.png"
+    ],
+    "a0381": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0381.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0381-20070929_134540__MG_0110.png"
+    ],
+    "a0386": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0386.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0386-jmac_MG_0520.png"
+    ],
+    "a0387": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0387.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0387-IMG_3388.png"
+    ],
+    "a0388": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0388.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0388-IMG_1637.png"
+    ],
+    "a0389": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0389.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0389-KE_-0026.png"
+    ],
+    "a0390": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0390.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0390-NKIM_MG_3126.png"
+    ],
+    "a0391": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0391.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0391-IMG_4305.png"
+    ],
+    "a0392": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0392.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0392-_DGW6346.png"
+    ],
+    "a0398": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0398.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0398-IMG_5829.png"
+    ],
+    "a0400": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0400.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0400-NKIM_MG_8342.png"
+    ],
+    "a0402": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0402.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0402-IMG_4055.png"
+    ],
+    "a0403": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0403.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0403-IMG_0076.png"
+    ],
+    "a0406": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0406.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0406-_MG_7943.png"
+    ],
+    "a0407": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0407.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0407-IMG_8270.png"
+    ],
+    "a0408": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0408.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0408-Ja_Pe-95.png"
+    ],
+    "a0409": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0409.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0409-_MG_0111.png"
+    ],
+    "a0411": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0411.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0411-07-11-21-at-13h12m13s-_MG_5935.png"
+    ],
+    "a0416": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0416.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0416-IMG_2389.png"
+    ],
+    "a0417": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0417.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0417-IMG_3345.png"
+    ],
+    "a0421": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0421.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0421-_DGW6279.png"
+    ],
+    "a0422": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0422.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0422-054hunwed.png"
+    ],
+    "a0423": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0423.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0423-07-06-02-at-07h35m36-s_MG_1355.png"
+    ],
+    "a0425": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0425.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0425-060818_145522__Z9B2601.png"
+    ],
+    "a0426": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0426.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0426-jmac_DSC4298.png"
+    ],
+    "a0429": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0429.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0429-_78U7703.png"
+    ],
+    "a0431": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0431.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0431-_DSC9183.png"
+    ],
+    "a0433": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0433.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0433-dgw_008.png"
+    ],
+    "a0434": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0434.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0434-IMG_3559.png"
+    ],
+    "a0435": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0435.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0435-IMG_0064.png"
+    ],
+    "a0441": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0441.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0441-jmac_MG_5386.png"
+    ],
+    "a0442": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0442.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0442-jmac_MG_1461.png"
+    ],
+    "a0443": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0443.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0443-IMG_2907.png"
+    ],
+    "a0446": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0446.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0446-jn_20071027_StormClouds_0009.png"
+    ],
+    "a0447": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0447.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0447-Ja_Pe-49.png"
+    ],
+    "a0448": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0448.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0448-IMG_3809.png"
+    ],
+    "a0455": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0455.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0455-_DSC4605.png"
+    ],
+    "a0459": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0459.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0459-jmac_MG_0866.png"
+    ],
+    "a0460": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0460.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0460-IMG_5839.png"
+    ],
+    "a0463": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0463.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0463-jmac_DSC2316.png"
+    ],
+    "a0464": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0464.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0464-NKIM_130.png"
+    ],
+    "a0467": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0467.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0467-IMG_4514.png"
+    ],
+    "a0469": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0469.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0469-NKIM_103.png"
+    ],
+    "a0470": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0470.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0470-_MG_7801.png"
+    ],
+    "a0471": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0471.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0471-IMG_2901.png"
+    ],
+    "a0472": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0472.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0472-MB_040506_010.png"
+    ],
+    "a0474": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0474.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0474-IMG_0036.png"
+    ],
+    "a0475": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0475.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0475-MB_20030906_026.png"
+    ],
+    "a0476": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0476.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0476-_DSC6400.png"
+    ],
+    "a0478": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0478.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0478-dgw_014.png"
+    ],
+    "a0479": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0479.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0479-WP_CRW_7999.png"
+    ],
+    "a0480": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0480.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0480-jmac_MG_0549.png"
+    ],
+    "a0482": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0482.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0482-NKIM_MG_6625.png"
+    ],
+    "a0483": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0483.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0483-WP_CRW_0259.png"
+    ],
+    "a0484": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0484.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0484-_DGW6359.png"
+    ],
+    "a0486": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0486.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0486-jmac_MG_0791.png"
+    ],
+    "a0487": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0487.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0487-_DSC5455.png"
+    ],
+    "a0491": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0491.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0491-2004-07-29_14-32-56_CRW_3077.exr.png"
+    ],
+    "a0494": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0494.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0494-IMG_8262.png"
+    ],
+    "a0495": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0495.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0495-WP_CRW_9591.png"
+    ],
+    "a0496": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0496.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0496-WP_CRW_0462.png"
+    ],
+    "a0499": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0499.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0499-_DSC0086.png"
+    ],
+    "a0501": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0501.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0501-_MG_7370.png"
+    ],
+    "a0502": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0502.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0502-JI2E4143.png"
+    ],
+    "a0504": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0504.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0504-jmacIMG_6809.png"
+    ],
+    "a0508": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0508.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0508-DSC_0010-3.png"
+    ],
+    "a0515": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0515.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0515-NKIM_MG_6602.png"
+    ],
+    "a0523": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0523.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0523-_MG_0142.png"
+    ],
+    "a0524": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0524.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0524-_DGW6317.png"
+    ],
+    "a0527": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0527.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0527-_DGW6270.png"
+    ],
+    "a0531": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0531.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0531-dgw_067.png"
+    ],
+    "a0533": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0533.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0533-MB_20030906_063.png"
+    ],
+    "a0535": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0535.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0535-jmac_MG_6029.png"
+    ],
+    "a0537": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0537.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0537-IMG_1562.png"
+    ],
+    "a0539": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0539.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0539-jmac_MG_0220.png"
+    ],
+    "a0540": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0540.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0540-jmac_MG_5988.png"
+    ],
+    "a0541": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0541.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0541-050618_215910__MG_2944.png"
+    ],
+    "a0542": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0542.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0542-IMG_4760.png"
+    ],
+    "a0544": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0544.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0544-KE_-0053.png"
+    ],
+    "a0551": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0551.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0551-DSC_0008.png"
+    ],
+    "a0555": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0555.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0555-_DSC3330.png"
+    ],
+    "a0559": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0559.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0559-_DSC0007-2.png"
+    ],
+    "a0560": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0560.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0560-jn_2007_05_06__335.png"
+    ],
+    "a0561": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0561.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0561-NKIM_MG_7778.png"
+    ],
+    "a0562": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0562.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0562-dgw_082.png"
+    ],
+    "a0563": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0563.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0563-IMG_0286.png"
+    ],
+    "a0568": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0568.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0568-_MG_1090.png"
+    ],
+    "a0569": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0569.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0569-IMG_0319.png"
+    ],
+    "a0571": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0571.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0571-jmac_DSC5611.png"
+    ],
+    "a0573": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0573.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0573-DSC_0044-1.png"
+    ],
+    "a0578": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0578.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0578-IMG_4994.png"
+    ],
+    "a0579": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0579.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0579-IMG_0825.png"
+    ],
+    "a0584": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0584.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0584-tc_DSC2161.png"
+    ],
+    "a0587": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0587.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0587-IMG_2780.png"
+    ],
+    "a0589": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0589.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0589-LSstone_060806_8886.png"
+    ],
+    "a0590": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0590.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0590-050708_105048__I2E9570.png"
+    ],
+    "a0594": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0594.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0594-_MG_0406.png"
+    ],
+    "a0598": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0598.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0598-NKIM_MG_6367.png"
+    ],
+    "a0601": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0601.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0601-07-11-26-at-12h45m09s-_MG_7055.png"
+    ],
+    "a0603": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0603.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0603-050918_140528__MG_5980.png"
+    ],
+    "a0607": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0607.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0607-NKIM_MG_6774.png"
+    ],
+    "a0608": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0608.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0608-_DGW6367.png"
+    ],
+    "a0611": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0611.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0611-IMG_0056.png"
+    ],
+    "a0612": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0612.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0612-LSCRW_0030.png"
+    ],
+    "a0613": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0613.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0613-LS051025_day_2_LL053.png"
+    ],
+    "a0616": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0616.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0616-DSC_0146.png"
+    ],
+    "a0617": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0617.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0617-20060619_094244__MG_9140.png"
+    ],
+    "a0620": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0620.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0620-jmac_MG_6253.png"
+    ],
+    "a0624": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0624.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0624-KE_-2574.png"
+    ],
+    "a0625": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0625.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0625-IMG_1324.png"
+    ],
+    "a0626": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0626.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0626-20070618_190911__MG_8400.png"
+    ],
+    "a0627": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0627.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0627-_DSC5388.png"
+    ],
+    "a0631": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0631.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0631-NKIM_MG_6442.png"
+    ],
+    "a0632": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0632.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0632-07-06-01-at-12h50m26-s_MG_1230.png"
+    ],
+    "a0638": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0638.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0638-20061008_092601__MG_0024.png"
+    ],
+    "a0639": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0639.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0639-dvf_010.png"
+    ],
+    "a0643": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0643.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0643-WP_CRW_1443.png"
+    ],
+    "a0649": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0649.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0649-Ja_Pe-77.png"
+    ],
+    "a0651": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0651.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0651-dgw_129.png"
+    ],
+    "a0652": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0652.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0652-jmac_DSC3908.png"
+    ],
+    "a0656": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0656.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0656-20070505_100410__MG_6820.png"
+    ],
+    "a0659": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0659.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0659-051009_144152__MG_6254.png"
+    ],
+    "a0660": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0660.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0660-IMG_4000.png"
+    ],
+    "a0666": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0666.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0666-IMG_5021.png"
+    ],
+    "a0671": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0671.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0671-IMG_0621.png"
+    ],
+    "a0684": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0684.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0684-IMG_5076.png"
+    ],
+    "a0691": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0691.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0691-jn_20081025_Kent_Shelter_021.png"
+    ],
+    "a0692": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0692.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0692-IMG_5076.png"
+    ],
+    "a0697": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0697.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0697-IMG_4796.png"
+    ],
+    "a0700": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0700.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0700-IMG_2879.png"
+    ],
+    "a0702": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0702.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0702-dgw_091.png"
+    ],
+    "a0704": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0704.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0704-jmac_MG_0617.png"
+    ],
+    "a0712": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0712.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0712-_DSC8911.png"
+    ],
+    "a0720": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0720.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0720-GrassleyCase-5419.png"
+    ],
+    "a0727": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0727.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0727-07-11-11-at-11h53m38s-_MG_4569.png"
+    ],
+    "a0730": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0730.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0730-IMG_4792.png"
+    ],
+    "a0742": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0742.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0742-IMG_2429.png"
+    ],
+    "a0743": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0743.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0743-_DSC6146.png"
+    ],
+    "a0744": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0744.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0744-Ja_Pe-99.png"
+    ],
+    "a0758": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0758.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0758-050731_160352__I2E5385.png"
+    ],
+    "a0773": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0773.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0773-IMG_0067.png"
+    ],
+    "a0776": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0776.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0776-050813_162440__I2E5677.png"
+    ],
+    "a0801": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0801.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0801-07-08-11-at-16h32m03s-_MG_3277.png"
+    ],
+    "a0803": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0803.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0803-20081226_at_17h04m14__MG_3930.png"
+    ],
+    "a0817": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0817.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0817-20061111_075425__E6B4010.png"
+    ],
+    "a0820": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0820.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0820-IMG_4608.png"
+    ],
+    "a0887": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0887.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0887-_DSC5906.png"
+    ],
+    "a0908": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0908.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0908-060813_072428__Z9B1305.png"
+    ],
+    "a0917": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0917.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0917-07-06-01-at-14h40m08-s_MG_1293.png"
+    ],
+    "a0918": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0918.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0918-_MG_1507.png"
+    ],
+    "a0940": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a0940.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a0940-IMG_0472.png"
+    ],
+    "a1149": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1149.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1149-_MG_6531.png"
+    ],
+    "a1150": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1150.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1150-NKIM_MG_3095.png"
+    ],
+    "a1156": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1156.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1156-IMG_4771.png"
+    ],
+    "a1159": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1159.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1159-KE_-0046.png"
+    ],
+    "a1168": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1168.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1168-dgw_057.png"
+    ],
+    "a1172": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1172.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1172-_DGW6413.png"
+    ],
+    "a1173": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1173.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1173-IMG_1748.png"
+    ],
+    "a1178": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1178.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1178-jmac_MG_6061.png"
+    ],
+    "a1182": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1182.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1182-_DSC0063.png"
+    ],
+    "a1188": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1188.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1188-MB_080329_068.png"
+    ],
+    "a1191": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1191.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1191-_DSC0065-2.png"
+    ],
+    "a1192": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1192.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1192-IMG_0225.png"
+    ],
+    "a1196": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1196.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1196-IMG_5049.png"
+    ],
+    "a1200": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1200.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1200-IMG_1677.png"
+    ],
+    "a1203": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1203.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1203-Ja_Pe-84.png"
+    ],
+    "a1208": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1208.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1208-IMG_1671.png"
+    ],
+    "a1210": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1210.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1210-IMG_0275.png"
+    ],
+    "a1212": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1212.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1212-IMG_8009.png"
+    ],
+    "a1216": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1216.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1216-_DSC0010.png"
+    ],
+    "a1224": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1224.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1224-_DGW6318.png"
+    ],
+    "a1227": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1227.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1227-KE_-1576.png"
+    ],
+    "a1230": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1230.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1230-IMG_5833.png"
+    ],
+    "a1232": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1232.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1232-07-11-04-at-18h21m34s-_MG_4038.png"
+    ],
+    "a1248": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1248.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1248-dgw_081.png"
+    ],
+    "a1249": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1249.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1249-_DSC1782.png"
+    ],
+    "a1251": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1251.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1251-_DGW6263.png"
+    ],
+    "a1252": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1252.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1252-_MG_1415.png"
+    ],
+    "a1254": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1254.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1254-NKIM_MG_6664.png"
+    ],
+    "a1255": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1255.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1255-IMG_0147.png"
+    ],
+    "a1258": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1258.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1258-DSC_0268.png"
+    ],
+    "a1259": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1259.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1259-jmac_MG_0385.png"
+    ],
+    "a1261": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1261.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1261-07-12-01-at-16h14m01s-_MG_8746.png"
+    ],
+    "a1263": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1263.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1263-20071122_142540__MG_0314.png"
+    ],
+    "a1264": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1264.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1264-IMG_2896.png"
+    ],
+    "a1266": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1266.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1266-20060206_145139__MG_2286.png"
+    ],
+    "a1268": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1268.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1268-jmac_MG_5989.png"
+    ],
+    "a1269": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1269.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1269-jmac_MG_5885.png"
+    ],
+    "a1270": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1270.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1270-jn_20080803_0429.png"
+    ],
+    "a1271": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1271.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1271-NKIM_MG_3133.png"
+    ],
+    "a1274": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1274.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1274-jmac_DSC1525.png"
+    ],
+    "a1283": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1283.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1283-_DSC2224.png"
+    ],
+    "a1287": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1287.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1287-dgw_063.png"
+    ],
+    "a1289": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1289.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1289-jn_20081025_Kent_Shelter_186.png"
+    ],
+    "a1292": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1292.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1292-_DSC0177.png"
+    ],
+    "a1293": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1293.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1293-WP_CRW_4757.png"
+    ],
+    "a1294": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1294.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1294-IMG_0080.png"
+    ],
+    "a1295": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1295.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1295-IMG_4898.png"
+    ],
+    "a1297": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1297.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1297-_DGW6304.png"
+    ],
+    "a1299": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1299.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1299-NKIM_MG_6747.png"
+    ],
+    "a1303": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1303.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1303-NKIM_080.png"
+    ],
+    "a1305": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1305.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1305-NKIM_MG_6827.png"
+    ],
+    "a1310": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1310.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1310-Ja_Pe-3.png"
+    ],
+    "a1311": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1311.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1311-050801_142402__I2E5523.png"
+    ],
+    "a1313": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1313.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1313-jmac_DSC2619.png"
+    ],
+    "a1325": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1325.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1325-IMG_4028.png"
+    ],
+    "a1328": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1328.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1328-20080630_at_22h44m56__MG_1921.png"
+    ],
+    "a1335": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1335.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1335-07-11-26-at-14h48m48s-_MG_7086.png"
+    ],
+    "a1336": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1336.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1336-_DSC8917.png"
+    ],
+    "a1338": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1338.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1338-_MG_1523.png"
+    ],
+    "a1339": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1339.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1339-IMG_3445.png"
+    ],
+    "a1340": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1340.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1340-_DSC7451.png"
+    ],
+    "a1341": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1341.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1341-IMG_4364.png"
+    ],
+    "a1344": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1344.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1344-IMG_4336.png"
+    ],
+    "a1346": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1346.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1346-20061213_142422__MG_3757.png"
+    ],
+    "a1353": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1353.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1353-KE_-0027.png"
+    ],
+    "a1357": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1357.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1357-_DSC2019.png"
+    ],
+    "a1359": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1359.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1359-NKIM_MG_6126.png"
+    ],
+    "a1360": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1360.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1360-IMG_3437.png"
+    ],
+    "a1369": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1369.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1369-jmac_MG_5781.png"
+    ],
+    "a1371": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1371.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1371-IMG_4254.png"
+    ],
+    "a1373": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1373.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1373-MB_20041213_002_copy.exr.png"
+    ],
+    "a1374": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1374.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1374-IMG_0937.png"
+    ],
+    "a1376": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1376.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1376-NKIM_122.png"
+    ],
+    "a1378": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1378.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1378-dgw_039.png"
+    ],
+    "a1380": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1380.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1380-jmac_DSC0493.png"
+    ],
+    "a1381": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1381.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1381-jmac_DSC1609.png"
+    ],
+    "a1383": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1383.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1383-_DGW6387.png"
+    ],
+    "a1385": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1385.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1385-IMG_3466.png"
+    ],
+    "a1388": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1388.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1388-jmac_MG_6009.png"
+    ],
+    "a1390": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1390.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1390-_DGW6414.png"
+    ],
+    "a1391": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1391.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1391-DSC_0002-2.png"
+    ],
+    "a1392": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1392.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1392-08-05-25-at-15h08m39s-_MG_9578.png"
+    ],
+    "a1393": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1393.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1393-jn_20080928_002.png"
+    ],
+    "a1394": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1394.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1394-IMG_4786.png"
+    ],
+    "a1406": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1406.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1406-jmac_MG_5303.png"
+    ],
+    "a1409": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1409.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1409-IMG_4840.png"
+    ],
+    "a1410": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1410.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1410-IMG_0002.png"
+    ],
+    "a1412": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1412.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1412-IMG_2490.png"
+    ],
+    "a1413": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1413.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1413-07-11-21-at-16h37m24s-_MG_5983.png"
+    ],
+    "a1414": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1414.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1414-DSC_0037.png"
+    ],
+    "a1418": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1418.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1418-dgw_066.png"
+    ],
+    "a1421": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1421.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1421-_DGW6229.png"
+    ],
+    "a1423": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1423.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1423-20080624_at_19h53m25__MG_0078.png"
+    ],
+    "a1425": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1425.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1425-IMG_0885.png"
+    ],
+    "a1427": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1427.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1427-IMG_4252.png"
+    ],
+    "a1428": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1428.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1428-IMG_1814.png"
+    ],
+    "a1431": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1431.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1431-dgw_089.png"
+    ],
+    "a1433": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1433.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1433-jmac_MG_0303.png"
+    ],
+    "a1436": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1436.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1436-MB_040516_055.png"
+    ],
+    "a1441": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1441.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1441-dgw_132.png"
+    ],
+    "a1442": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1442.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1442-CRW_0004.png"
+    ],
+    "a1444": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1444.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1444-jmac_DSC0620.png"
+    ],
+    "a1449": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1449.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1449-MB_060909_016.png"
+    ],
+    "a1451": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1451.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1451-07-06-28-at-12h47m34s-_MG_1828.png"
+    ],
+    "a1455": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1455.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1455-JI2E4407.png"
+    ],
+    "a1459": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1459.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1459-IMG_4909.png"
+    ],
+    "a1471": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1471.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1471-07-07-15-at-23h51m48s-_MG_2179.png"
+    ],
+    "a1472": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1472.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1472-jn_20071207_Xmas_House_0125.png"
+    ],
+    "a1479": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1479.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1479-jmac_MG_8030.png"
+    ],
+    "a1493": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1493.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1493-IMG_4697.png"
+    ],
+    "a1495": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1495.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1495-Ja_Pe-89.png"
+    ],
+    "a1501": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1501.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1501-_DSC7449.png"
+    ],
+    "a1504": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1504.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1504-dgw_018.png"
+    ],
+    "a1505": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1505.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1505-Ja_Pe-4.png"
+    ],
+    "a1506": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1506.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1506-jn_20081230_Kent_Shelter_012.png"
+    ],
+    "a1511": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1511.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1511-jmac_MG_6757.png"
+    ],
+    "a1514": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1514.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1514-050708_111324__I2E9652.png"
+    ],
+    "a1516": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1516.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1516-_DSC2099.png"
+    ],
+    "a1517": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1517.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1517-IMG_0699.png"
+    ],
+    "a1518": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1518.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1518-WP_CRW_6308.png"
+    ],
+    "a1519": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1519.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1519-IMG_1638.png"
+    ],
+    "a1520": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1520.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1520-DSC_0005-3.png"
+    ],
+    "a1525": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1525.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1525-jmac_MG_0646.png"
+    ],
+    "a1526": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1526.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1526-20050602_170616__MG_2740.png"
+    ],
+    "a1527": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1527.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1527-20041010_072954__E6B5620.png"
+    ],
+    "a1536": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1536.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1536-jmac_DSC5964.png"
+    ],
+    "a1538": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1538.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1538-_DSC3314.png"
+    ],
+    "a1540": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1540.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1540-JI2E3898.png"
+    ],
+    "a1543": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1543.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1543-WP_CRW_8532.png"
+    ],
+    "a1545": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1545.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1545-IMG_4787.png"
+    ],
+    "a1547": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1547.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1547-jmac_DSC3518.png"
+    ],
+    "a1548": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1548.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1548-_MG_1040.png"
+    ],
+    "a1551": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1551.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1551-IMG_4167.png"
+    ],
+    "a1552": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1552.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1552-jmac_DSC3309.png"
+    ],
+    "a1556": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1556.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1556-IMG_0413.png"
+    ],
+    "a1559": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1559.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1559-jmac_MG_0089.png"
+    ],
+    "a1560": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1560.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1560-dgw_013.png"
+    ],
+    "a1567": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1567.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1567-_DSC0039.png"
+    ],
+    "a1570": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1570.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1570-IMG_0850.png"
+    ],
+    "a1571": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1571.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1571-IMG_0403.png"
+    ],
+    "a1573": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1573.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1573-JI2E3856.png"
+    ],
+    "a1575": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1575.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1575-jmacDSC_0353.png"
+    ],
+    "a1577": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1577.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1577-07-06-28-at-12h42m19s-_MG_1822.png"
+    ],
+    "a1581": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1581.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1581-20060507_115629__E6B1096.png"
+    ],
+    "a1584": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1584.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1584-_DSC0001-3.png"
+    ],
+    "a1592": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1592.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1592-07-06-01-at-14h20m21-s_MG_1284.png"
+    ],
+    "a1595": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1595.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1595-_DGW6311.png"
+    ],
+    "a1598": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1598.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1598-WP_CRW_0386.png"
+    ],
+    "a1600": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1600.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1600-_MG_1298.png"
+    ],
+    "a1602": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1602.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1602-_DSC3915.png"
+    ],
+    "a1605": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1605.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1605-NKIM_MG_8179.png"
+    ],
+    "a1610": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1610.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1610-08-11-09-at-22h58m42s-_MG_3590.png"
+    ],
+    "a1613": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1613.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1613-IMG_4492.png"
+    ],
+    "a1615": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1615.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1615-IMG_1120.png"
+    ],
+    "a1616": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1616.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1616-_DGW6356.png"
+    ],
+    "a1617": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1617.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1617-dgw_124.png"
+    ],
+    "a1618": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1618.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1618-dgw_062.png"
+    ],
+    "a1621": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1621.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1621-jmac_MG_0344.png"
+    ],
+    "a1623": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1623.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1623-MB_20030906_099.png"
+    ],
+    "a1631": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1631.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1631-NKIM_MG_4337.png"
+    ],
+    "a1635": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1635.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1635-IMG_0121.png"
+    ],
+    "a1641": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1641.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1641-050707_154744__I2E9457.png"
+    ],
+    "a1643": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1643.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1643-_DGW6323.png"
+    ],
+    "a1644": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1644.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1644-_DSC0013-2.png"
+    ],
+    "a1647": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1647.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1647-MB_060909_078.png"
+    ],
+    "a1649": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1649.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1649-MB_20030906_004.png"
+    ],
+    "a1652": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1652.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1652-dgw_004.png"
+    ],
+    "a1655": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1655.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1655-IMG_3709.png"
+    ],
+    "a1661": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1661.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1661-IMG_0615.png"
+    ],
+    "a1669": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1669.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1669-NKIM_MG_7498.png"
+    ],
+    "a1670": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1670.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1670-NKIM_079.png"
+    ],
+    "a1671": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1671.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1671-_DSC6426.png"
+    ],
+    "a1672": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1672.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1672-jmacIMG_0112.png"
+    ],
+    "a1674": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1674.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1674-DSC_0013.png"
+    ],
+    "a1676": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1676.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1676-IMG_4407.png"
+    ],
+    "a1677": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1677.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1677-_DSC0031.png"
+    ],
+    "a1679": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1679.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1679-20050319_103514__E6B0782.png"
+    ],
+    "a1680": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1680.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1680-IMG_0126.png"
+    ],
+    "a1681": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1681.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1681-_I2E6943.png"
+    ],
+    "a1690": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1690.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1690-061202_195438__MG_9731.png"
+    ],
+    "a1694": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1694.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1694-CRW_0172.png"
+    ],
+    "a1697": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1697.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1697-07-12-01-at-11h12m05s-_MG_8492.png"
+    ],
+    "a1699": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1699.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1699-MB_20030906_060.png"
+    ],
+    "a1700": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1700.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1700-07-11-22-at-13h30m23s-_MG_6305.png"
+    ],
+    "a1709": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1709.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1709-NKIM_MG_3097.png"
+    ],
+    "a1711": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1711.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1711-_DGW6251.png"
+    ],
+    "a1713": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1713.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1713-WP_CRW_0100.png"
+    ],
+    "a1714": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1714.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1714-IMG_0109.png"
+    ],
+    "a1720": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1720.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1720-07-06-01-at-14h14m20-s_MG_1282.png"
+    ],
+    "a1729": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1729.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1729-tc_DSC1717.png"
+    ],
+    "a1730": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1730.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1730-20080809_at_18h39m49__MG_0130.png"
+    ],
+    "a1734": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1734.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1734-07-11-11-at-11h44m17s-_MG_4537.png"
+    ],
+    "a1735": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1735.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1735-Ja_Pe-91.png"
+    ],
+    "a1736": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1736.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1736-IMG_0008.png"
+    ],
+    "a1737": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1737.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1737-IMG_4060.png"
+    ],
+    "a1744": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1744.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1744-jmac_MG_0369.png"
+    ],
+    "a1748": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1748.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1748-DSC_0162.png"
+    ],
+    "a1753": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1753.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1753-JI2E0784.png"
+    ],
+    "a1756": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1756.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1756-NKIM_MG_0330.png"
+    ],
+    "a1760": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1760.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1760-07-06-01-at-13h01m06-s_MG_1253.png"
+    ],
+    "a1768": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1768.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1768-07-08-11-at-17h54m02s-_MG_3365.png"
+    ],
+    "a1779": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1779.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1779-07-08-11-at-14h58m37s-N0000114.png"
+    ],
+    "a1782": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1782.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1782-jn_20080821_NYC_058.png"
+    ],
+    "a1783": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1783.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1783-DSC_0012-2.png"
+    ],
+    "a1787": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1787.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1787-_MG_3277.png"
+    ],
+    "a1790": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1790.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1790-07-06-28-at-12h47m57s-_MG_1831.png"
+    ],
+    "a1795": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1795.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1795-jmac_MG_0165.png"
+    ],
+    "a1796": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1796.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1796-050731_201612__I2E5428.png"
+    ],
+    "a1799": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1799.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1799-JI2E0449.png"
+    ],
+    "a1801": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1801.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1801-WP_CRW_0380.png"
+    ],
+    "a1805": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1805.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1805-_DSC1151.png"
+    ],
+    "a1807": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1807.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1807-_DGW6310.png"
+    ],
+    "a1808": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1808.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1808-_DSC2496.png"
+    ],
+    "a1809": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1809.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1809-2004-01-17_16-07-12_CRW_2859.exr.png"
+    ],
+    "a1810": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1810.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1810-IMG_0839.png"
+    ],
+    "a1812": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1812.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1812-jmac_DSC3519.png"
+    ],
+    "a1813": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1813.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1813-IMG_4237.png"
+    ],
+    "a1824": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1824.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1824-NKIM_MG_3085.png"
+    ],
+    "a1825": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1825.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1825-MB_20030906_017.png"
+    ],
+    "a1838": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1838.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1838-NKIM_034.png"
+    ],
+    "a1840": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1840.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1840-WP_CRW_8291.png"
+    ],
+    "a1842": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1842.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1842-07-11-21-at-08h59m04s-_MG_5807.png"
+    ],
+    "a1847": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1847.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1847-20051222_141305__MG_0341.png"
+    ],
+    "a1848": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1848.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1848-WP_CRW_4247.png"
+    ],
+    "a1853": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1853.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1853-07-11-28-at-17h03m55s-_MG_7857.png"
+    ],
+    "a1855": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1855.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1855-jmac_MG_0383.png"
+    ],
+    "a1856": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1856.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1856-_DGW6328.png"
+    ],
+    "a1858": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1858.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1858-050815_174510__I2E6619.png"
+    ],
+    "a1861": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1861.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1861-jmac_MG_6054.png"
+    ],
+    "a1865": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1865.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1865-dgw_120.png"
+    ],
+    "a1869": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1869.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1869-jmac_DSC3759.png"
+    ],
+    "a1870": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1870.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1870-jmac_MG_6385.png"
+    ],
+    "a1874": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1874.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1874-NKIM_MG_6444.png"
+    ],
+    "a1876": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1876.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1876-IMG_0152.png"
+    ],
+    "a1882": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1882.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1882-07-11-23-at-17h04m28s-_MG_6574.png"
+    ],
+    "a1899": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1899.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1899-jmac_MG_1320.png"
+    ],
+    "a1900": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1900.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1900-_I2E6841.png"
+    ],
+    "a1902": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1902.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1902-_MG_7217.png"
+    ],
+    "a1903": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1903.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1903-IMG_0890.png"
+    ],
+    "a1905": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1905.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1905-DSC_0054.png"
+    ],
+    "a1913": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1913.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1913-_DSC5474.png"
+    ],
+    "a1915": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1915.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1915-07-11-27-at-19h34m28s-_MG_7389.png"
+    ],
+    "a1917": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1917.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1917-jmac_MG_5620.png"
+    ],
+    "a1919": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1919.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1919-_DSC0006-2.png"
+    ],
+    "a1921": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1921.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1921-IMG_0766.png"
+    ],
+    "a1929": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1929.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1929-dgw_084.png"
+    ],
+    "a1931": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1931.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1931-_DSC2241.png"
+    ],
+    "a1932": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1932.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1932-WP_CRW_0401.png"
+    ],
+    "a1942": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1942.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1942-jn_2007_05_03__133.png"
+    ],
+    "a1943": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1943.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1943-IMG_4041.png"
+    ],
+    "a1944": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1944.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1944-IMG_5079.png"
+    ],
+    "a1948": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1948.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1948-20050602_181057__MG_2829.png"
+    ],
+    "a1951": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1951.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1951-CRW_0014.png"
+    ],
+    "a1952": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1952.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1952-07-12-02-at-12h24m10s-_MG_8944.png"
+    ],
+    "a1957": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1957.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1957-_I2E6085.png"
+    ],
+    "a1958": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1958.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1958-IMG_5062.png"
+    ],
+    "a1960": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1960.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1960-IMG_0747.png"
+    ],
+    "a1969": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1969.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1969-_DGW6290.png"
+    ],
+    "a1971": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1971.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1971-NKIM_MG_6152.png"
+    ],
+    "a1973": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1973.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1973-060914_170620__MG_6779.png"
+    ],
+    "a1976": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1976.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1976-_DSC4492.png"
+    ],
+    "a1984": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1984.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1984-MB_060909_014.png"
+    ],
+    "a1987": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1987.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1987-IMG_0017.png"
+    ],
+    "a1989": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1989.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1989-MB_070908_016.png"
+    ],
+    "a1990": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1990.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1990-IMG_3424.png"
+    ],
+    "a1995": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1995.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1995-jn_2007_12_15__BU_CRUISE_275.png"
+    ],
+    "a1997": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a1997.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a1997-DSC_0005-1.png"
+    ],
+    "a2002": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2002.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2002-_MG_0225.png"
+    ],
+    "a2005": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2005.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2005-07-11-20-at-17h05m05s-_MG_5779.png"
+    ],
+    "a2008": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2008.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2008-MB_040516_072.png"
+    ],
+    "a2020": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2020.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2020-JI2E0466.png"
+    ],
+    "a2024": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2024.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2024-152hunwed.png"
+    ],
+    "a2028": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2028.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2028-KE_-2432.png"
+    ],
+    "a2030": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2030.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2030-_DSC7496.png"
+    ],
+    "a2033": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2033.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2033-jn_20070927_0022.png"
+    ],
+    "a2049": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2049.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2049-IMG_1585.png"
+    ],
+    "a2050": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2050.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2050-IMG_1793.png"
+    ],
+    "a2053": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2053.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2053-WP_CRW_0563.png"
+    ],
+    "a2055": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2055.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2055-IMG_4247.png"
+    ],
+    "a2057": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2057.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2057-20051224_154315__E6B9877.png"
+    ],
+    "a2062": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2062.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2062-KE_-0066.png"
+    ],
+    "a2068": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2068.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2068-jmac_DSC2420.png"
+    ],
+    "a2070": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2070.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2070-IMG_4953.png"
+    ],
+    "a2072": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2072.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2072-IMG_2895.png"
+    ],
+    "a2074": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2074.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2074-IMG_4475.png"
+    ],
+    "a2077": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2077.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2077-_DSC6928.png"
+    ],
+    "a2086": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2086.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2086-NKIM_MG_6107.png"
+    ],
+    "a2087": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2087.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2087-IMG_1560.png"
+    ],
+    "a2099": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2099.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2099-KE_-0086.png"
+    ],
+    "a2103": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2103.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2103-dgw_054.png"
+    ],
+    "a2104": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2104.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2104-07-08-11-at-16h50m03s-N0000154.png"
+    ],
+    "a2105": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2105.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2105-jmac_MG_7930.png"
+    ],
+    "a2106": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2106.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2106-20041009_164255__E6B5580.png"
+    ],
+    "a2108": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2108.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2108-NKIM_MG_3127.png"
+    ],
+    "a2110": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2110.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2110-CRW_1177.png"
+    ],
+    "a2114": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2114.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2114-_DSC0013-3.png"
+    ],
+    "a2119": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2119.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2119-dgw_009.png"
+    ],
+    "a2126": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2126.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2126-IMG_4744.png"
+    ],
+    "a2128": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2128.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2128-07-11-21-at-09h26m45s-_MG_5827.png"
+    ],
+    "a2133": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2133.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2133-20060617_140539__MG_8570.png"
+    ],
+    "a2134": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2134.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2134-IMG_0042.png"
+    ],
+    "a2135": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2135.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2135-Ja_Pe-17.png"
+    ],
+    "a2136": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2136.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2136-050703_180902__I2E9315.png"
+    ],
+    "a2138": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2138.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2138-LSstone_060806_8897.png"
+    ],
+    "a2139": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2139.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2139-_DSC0076.png"
+    ],
+    "a2140": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2140.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2140-dgw_021.png"
+    ],
+    "a2141": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2141.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2141-IMG_2342.png"
+    ],
+    "a2144": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2144.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2144-jmac_MG_0288.png"
+    ],
+    "a2145": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2145.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2145-IMG_0473.png"
+    ],
+    "a2152": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2152.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2152-jmac_MG_7721.png"
+    ],
+    "a2153": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2153.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2153-NKIM_124.png"
+    ],
+    "a2156": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2156.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2156-_DSC0008-3.png"
+    ],
+    "a2158": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2158.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2158-jmac_MG_7657.png"
+    ],
+    "a2161": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2161.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2161-IMG_1757.png"
+    ],
+    "a2165": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2165.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2165-LS051026_day_3_arrive46.png"
+    ],
+    "a2174": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2174.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2174-jmac_DSC3811.png"
+    ],
+    "a2175": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2175.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2175-050708_183048__I2E9770.png"
+    ],
+    "a2764": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2764.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2764-07-11-19-at-13h52m09s-_MG_5054.png"
+    ],
+    "a2790": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2790.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2790-jmac_DSC2385.png"
+    ],
+    "a2808": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2808.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2808-20080516_072208__MG_0018.png"
+    ],
+    "a2824": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2824.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2824-dvf_035.png"
+    ],
+    "a2854": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2854.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2854-NKIM_MG_7374.png"
+    ],
+    "a2861": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2861.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2861-IMG_4397.png"
+    ],
+    "a2862": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2862.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2862-_DSC0055.png"
+    ],
+    "a2876": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2876.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2876-jn_20080130_Las_Vegas_0082.png"
+    ],
+    "a2883": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2883.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2883-_DSC0008-2.png"
+    ],
+    "a2913": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2913.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2913-IMG_0138.png"
+    ],
+    "a2933": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2933.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2933-_I2E7313.png"
+    ],
+    "a2956": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2956.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2956-KE_-0035.png"
+    ],
+    "a2986": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a2986.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a2986-_DGW6325.png"
+    ],
+    "a3267": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3267.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3267-WP_CRW_0087.png"
+    ],
+    "a3285": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3285.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3285-CRW_0291.png"
+    ],
+    "a3288": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3288.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3288-KE_-0049.png"
+    ],
+    "a3306": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3306.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3306-IMG_4969.png"
+    ],
+    "a3312": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3312.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3312-IMG_1063.png"
+    ],
+    "a3315": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3315.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3315-MB_20030906_022.png"
+    ],
+    "a3316": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3316.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3316-20051225_163230__MG_1390.png"
+    ],
+    "a3318": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3318.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3318-JI2E5722.png"
+    ],
+    "a3321": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3321.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3321-DSC_0054.png"
+    ],
+    "a3325": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3325.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3325-050819_154342__MG_5227.png"
+    ],
+    "a3337": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3337.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3337-dgw_112.png"
+    ],
+    "a3339": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3339.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3339-_MG_7202.png"
+    ],
+    "a3341": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3341.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3341-jmac_DSC2590.png"
+    ],
+    "a3344": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3344.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3344-NKIM_MG_6348.png"
+    ],
+    "a3345": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3345.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3345-20080514_105211__MG_9917.png"
+    ],
+    "a3351": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3351.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3351-KE_-1722.png"
+    ],
+    "a3356": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3356.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3356-_DSC9981.png"
+    ],
+    "a3360": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3360.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3360-IMG_0017.png"
+    ],
+    "a3365": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3365.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3365-jn_20071207_Xmas_House_0124.png"
+    ],
+    "a3366": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3366.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3366-Ja_Pe-6.png"
+    ],
+    "a3369": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3369.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3369-IMG_0004.png"
+    ],
+    "a3371": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3371.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3371-07-12-01-at-11h32m58s-_MG_8498.png"
+    ],
+    "a3382": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3382.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3382-IMG_4032.png"
+    ],
+    "a3388": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3388.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3388-jmac_DSC2214.png"
+    ],
+    "a3390": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3390.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3390-dgw_070.png"
+    ],
+    "a3391": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3391.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3391-050904_125814__I2E8654.png"
+    ],
+    "a3393": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3393.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3393-_DSC0057.png"
+    ],
+    "a3394": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3394.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3394-_DGW6419.png"
+    ],
+    "a3400": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3400.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3400-07-11-04-at-17h36m14s-_MG_4004.png"
+    ],
+    "a3401": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3401.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3401-20061111_122429__E6B5415.png"
+    ],
+    "a3402": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3402.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3402-jmac_DSC3153.png"
+    ],
+    "a3413": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3413.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3413-20041217_193556__E6B0485.png"
+    ],
+    "a3414": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3414.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3414-DSC_0002.png"
+    ],
+    "a3415": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3415.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3415-jmac_DSC6092.png"
+    ],
+    "a3416": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3416.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3416-IMG_4746.png"
+    ],
+    "a3418": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3418.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3418-2004-02-07_16-53-50_CRW_3754.exr.png"
+    ],
+    "a3422": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3422.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3422-WP_CRW_0302.png"
+    ],
+    "a3424": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3424.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3424-CRW_0163.png"
+    ],
+    "a3431": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3431.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3431-_DSC0103-3.png"
+    ],
+    "a3432": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3432.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3432-jmac_DSC3184.png"
+    ],
+    "a3433": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3433.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3433-NKIM_MG_8213.png"
+    ],
+    "a3439": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3439.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3439-IMG_3798.png"
+    ],
+    "a3441": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3441.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3441-dgw_064.png"
+    ],
+    "a3444": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3444.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3444-WP_CRW_6313.png"
+    ],
+    "a3446": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3446.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3446-050730_134124__MG_3716.png"
+    ],
+    "a3448": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3448.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3448-IMG_0113.png"
+    ],
+    "a3449": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3449.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3449-jmac_DSC2669.png"
+    ],
+    "a3451": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3451.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3451-IMG_1088.png"
+    ],
+    "a3452": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3452.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3452-IMG_1205.png"
+    ],
+    "a3456": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3456.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3456-DSC_0006-1-2.png"
+    ],
+    "a3457": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3457.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3457-NKIM_025.png"
+    ],
+    "a3460": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3460.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3460-20080514_105637__MG_9928.png"
+    ],
+    "a3462": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3462.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3462-dgw_051.png"
+    ],
+    "a3464": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3464.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3464-tc_DSC2199.png"
+    ],
+    "a3465": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3465.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3465-20060619_114622__MG_9153.png"
+    ],
+    "a3466": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3466.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3466-IMG_3941.png"
+    ],
+    "a3468": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3468.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3468-IMG_4793.png"
+    ],
+    "a3470": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3470.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3470-IMG_0835.png"
+    ],
+    "a3474": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3474.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3474-jmac_MG_1125.png"
+    ],
+    "a3477": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3477.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3477-_DSC0048.png"
+    ],
+    "a3483": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3483.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3483-_DSC0023-1.png"
+    ],
+    "a3486": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3486.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3486-jmac_DSC3897.png"
+    ],
+    "a3491": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3491.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3491-DSC_0091.png"
+    ],
+    "a3493": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3493.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3493-IMG_0279.png"
+    ],
+    "a3499": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3499.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3499-jn_2007_12_11__BU_CRUISE_019.png"
+    ],
+    "a3503": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3503.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3503-050731_155906__I2E5378.png"
+    ],
+    "a3504": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3504.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3504-IMG_0903.png"
+    ],
+    "a3505": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3505.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3505-CRW_0288.png"
+    ],
+    "a3508": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3508.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3508-NKIM_095.png"
+    ],
+    "a3509": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3509.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3509-_DGW6337.png"
+    ],
+    "a3510": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3510.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3510-JI2E4365.png"
+    ],
+    "a3511": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3511.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3511-jmac_MG_0542.png"
+    ],
+    "a3512": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3512.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3512-LSstone_060805_9380.png"
+    ],
+    "a3521": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3521.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3521-JI2E5091.png"
+    ],
+    "a3522": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3522.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3522-IMG_4772.png"
+    ],
+    "a3525": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3525.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3525-IMG_0713.png"
+    ],
+    "a3529": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3529.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3529-WP_CRW_0659.png"
+    ],
+    "a3531": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3531.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3531-07-06-30-at-04h02m08s-_MG_1936.png"
+    ],
+    "a3540": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3540.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3540-07-12-02-at-14h05m14s-_MG_8949.png"
+    ],
+    "a3541": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3541.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3541-IMG_4107.png"
+    ],
+    "a3545": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3545.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3545-jmac_DSC0491.png"
+    ],
+    "a3548": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3548.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3548-CRW_0993.png"
+    ],
+    "a3549": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3549.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3549-KE_-2455.png"
+    ],
+    "a3557": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3557.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3557-IMG_1507.png"
+    ],
+    "a3563": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3563.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3563-07-11-30-at-15h55m08s-_MG_8326.png"
+    ],
+    "a3571": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3571.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3571-IMG_0290.png"
+    ],
+    "a3575": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3575.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3575-IMG_0834.png"
+    ],
+    "a3576": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3576.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3576-LS051026_day_15_LL003.png"
+    ],
+    "a3585": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3585.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3585-IMG_4211.png"
+    ],
+    "a3586": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3586.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3586-IMG_4591.png"
+    ],
+    "a3588": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3588.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3588-CRW_0983.png"
+    ],
+    "a3591": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3591.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3591-07-11-30-at-16h19m33s-_MG_8384.png"
+    ],
+    "a3593": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3593.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3593-_DSC5689.png"
+    ],
+    "a3600": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3600.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3600-JI2E3496.png"
+    ],
+    "a3602": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3602.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3602-_DSC9759.png"
+    ],
+    "a3605": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3605.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3605-IMG_2772.png"
+    ],
+    "a3608": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3608.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3608-NKIM_MG_7004.png"
+    ],
+    "a3609": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3609.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3609-IMG_1702.png"
+    ],
+    "a3613": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3613.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3613-_DSC3264.png"
+    ],
+    "a3623": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3623.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3623-20051220_201437__MG_9239.png"
+    ],
+    "a3624": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3624.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3624-DSC_0070.png"
+    ],
+    "a3628": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3628.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3628-_DSC9996.png"
+    ],
+    "a3633": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3633.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3633-JI2E3892.png"
+    ],
+    "a3634": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3634.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3634-IMG_4959.png"
+    ],
+    "a3635": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3635.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3635-IMG_4031.png"
+    ],
+    "a3636": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3636.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3636-20041222_195608__E6B6989.png"
+    ],
+    "a3641": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3641.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3641-_DSC4628.png"
+    ],
+    "a3644": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3644.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3644-jmac_MG_5959.png"
+    ],
+    "a3649": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3649.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3649-WP_CRW_0691.png"
+    ],
+    "a3654": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3654.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3654-IMG_0777.png"
+    ],
+    "a3658": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3658.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3658-jmac_MG_0418.png"
+    ],
+    "a3670": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3670.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3670-jmac_MG_5917.png"
+    ],
+    "a3673": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3673.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3673-_DSC1109.png"
+    ],
+    "a3677": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3677.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3677-IMG_4696.png"
+    ],
+    "a3686": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3686.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3686-jmac_MG_0353.png"
+    ],
+    "a3688": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3688.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3688-jmac_MG_1424.png"
+    ],
+    "a3689": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3689.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3689-JI2E3798.png"
+    ],
+    "a3696": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3696.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3696-jmac_DSC1242.png"
+    ],
+    "a3697": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3697.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3697-07-11-24-at-16h05m35s-_MG_6729.png"
+    ],
+    "a3700": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3700.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3700-tc_DSC1892.png"
+    ],
+    "a3706": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3706.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3706-dgw_065.png"
+    ],
+    "a3707": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3707.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3707-NKIM_121.png"
+    ],
+    "a3710": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3710.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3710-07-11-20-at-16h52m05s-_MG_5742.png"
+    ],
+    "a3712": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3712.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3712-IMG_4852.png"
+    ],
+    "a3715": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3715.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3715-_MG_7773.png"
+    ],
+    "a3716": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3716.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3716-IMG_0301.png"
+    ],
+    "a3719": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3719.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3719-07-11-29-at-15h43m28s-_MG_8075.png"
+    ],
+    "a3720": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3720.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3720-jmac_MG_0851.png"
+    ],
+    "a3721": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3721.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3721-KE_-01.png"
+    ],
+    "a3724": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3724.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3724-20060101_092918__E6B0305.png"
+    ],
+    "a3727": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3727.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3727-2004-01-18_11-49-42_CRW_2889.exr.png"
+    ],
+    "a3729": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3729.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3729-07-11-24-at-21h39m19s-_MG_6853.png"
+    ],
+    "a3730": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3730.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3730-IMG_0113.png"
+    ],
+    "a3732": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3732.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3732-_DGW6272.png"
+    ],
+    "a3733": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3733.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3733-WP_CRW_4827.png"
+    ],
+    "a3735": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3735.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3735-_MG_7825.png"
+    ],
+    "a3737": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3737.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3737-dgw_022.png"
+    ],
+    "a3739": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3739.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3739-KE_-0068.png"
+    ],
+    "a3740": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3740.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3740-_DSC1411.png"
+    ],
+    "a3742": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3742.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3742-IMG_0206.png"
+    ],
+    "a3743": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3743.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3743-DSC_0038.png"
+    ],
+    "a3744": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3744.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3744-NKIM_MG_6757.png"
+    ],
+    "a3749": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3749.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3749-IMG_4592.png"
+    ],
+    "a3750": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3750.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3750-IMG_4253.png"
+    ],
+    "a3753": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3753.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3753-dgw_073.png"
+    ],
+    "a3754": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3754.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3754-050731_151704__I2E5362.png"
+    ],
+    "a3756": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3756.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3756-jmac_MG_5949.png"
+    ],
+    "a3760": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3760.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3760-IMG_2504.png"
+    ],
+    "a3764": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3764.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3764-20060618_093109__MG_8792.png"
+    ],
+    "a3766": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3766.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3766-20041219_194831__E6B5558.png"
+    ],
+    "a3769": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3769.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3769-IMG_3943.png"
+    ],
+    "a3771": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3771.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3771-07-06-01-at-13h03m06-s_MG_1256.png"
+    ],
+    "a3772": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3772.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3772-dgw_123.png"
+    ],
+    "a3774": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3774.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3774-_DSC0017.png"
+    ],
+    "a3778": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3778.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3778-IMG_4838.png"
+    ],
+    "a3780": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3780.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3780-JI2E3902.png"
+    ],
+    "a3781": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3781.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3781-2004-06-24_06-45-08_CRW_2040.exr.png"
+    ],
+    "a3783": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3783.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3783-KE_-0052.png"
+    ],
+    "a3786": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3786.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3786-_I2E8191.png"
+    ],
+    "a3796": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3796.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3796-NKIM_MG_7319.png"
+    ],
+    "a3798": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3798.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3798-IMG_2539.png"
+    ],
+    "a3800": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3800.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3800-dgw_090.png"
+    ],
+    "a3804": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3804.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3804-_DSC3608.png"
+    ],
+    "a3816": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3816.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3816-jmac_DSC3118.png"
+    ],
+    "a3820": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3820.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3820-dgw_025.png"
+    ],
+    "a3822": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3822.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3822-07-11-21-at-09h53m21s-_MG_5852.png"
+    ],
+    "a3827": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3827.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3827-JI2E3823.png"
+    ],
+    "a3830": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3830.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3830-LS_060715_8670.png"
+    ],
+    "a3832": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3832.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3832-20060613_091536__MG_7749.png"
+    ],
+    "a3833": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3833.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3833-_DSC0003-2.png"
+    ],
+    "a3834": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3834.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3834-IMG_0007.png"
+    ],
+    "a3846": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3846.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3846-IMG_3087.png"
+    ],
+    "a3847": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3847.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3847-NKIM_MG_6113.png"
+    ],
+    "a3848": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3848.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3848-DSC_0024.png"
+    ],
+    "a3851": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3851.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3851-IMG_3430.png"
+    ],
+    "a3862": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3862.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3862-JI2E0423.png"
+    ],
+    "a3863": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3863.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3863-IMG_1159.png"
+    ],
+    "a3864": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3864.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3864-_DSC1992.png"
+    ],
+    "a3872": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3872.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3872-IMG_4058.png"
+    ],
+    "a3877": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3877.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3877-KE_-0019.png"
+    ],
+    "a3879": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3879.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3879-IMG_0091.png"
+    ],
+    "a3890": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3890.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3890-IMG_4308.png"
+    ],
+    "a3893": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3893.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3893-_DGW6301.png"
+    ],
+    "a3899": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3899.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3899-jmac_DSC2259.png"
+    ],
+    "a3900": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3900.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3900-jmac_DSC5843.png"
+    ],
+    "a3902": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3902.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3902-jmac_DSC3970.png"
+    ],
+    "a3903": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3903.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3903-IMG_2386.png"
+    ],
+    "a3906": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3906.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3906-LS051025_day_3_LL003.png"
+    ],
+    "a3911": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3911.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3911-07-07-01-at-10h50m55s-_MG_2028.png"
+    ],
+    "a3913": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3913.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3913-IMG_0289.png"
+    ],
+    "a3914": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3914.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3914-DSC_0002-1.png"
+    ],
+    "a3919": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3919.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3919-KE_-1608.png"
+    ],
+    "a3923": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3923.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3923-_DSC0095.png"
+    ],
+    "a3924": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3924.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3924-_DSC6358.png"
+    ],
+    "a3926": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3926.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3926-dgw_077.png"
+    ],
+    "a3927": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3927.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3927-IMG_6048.png"
+    ],
+    "a3930": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3930.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3930-IMG_5083.png"
+    ],
+    "a3931": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3931.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3931-_DGW6259.png"
+    ],
+    "a3940": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3940.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3940-20050602_180025__MG_2820.png"
+    ],
+    "a3943": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3943.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3943-_DSC0054.png"
+    ],
+    "a3947": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3947.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3947-jmac_MG_1444.png"
+    ],
+    "a3948": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3948.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3948-_DSC0045.png"
+    ],
+    "a3954": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3954.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3954-_MG_0841.png"
+    ],
+    "a3958": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3958.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3958-_DSC3890.png"
+    ],
+    "a3961": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3961.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3961-_DSC0049.png"
+    ],
+    "a3963": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3963.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3963-jmac_DSC3835.png"
+    ],
+    "a3964": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3964.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3964-NKIM_MG_6716.png"
+    ],
+    "a3970": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3970.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3970-WP_Amanda_3rd_bday014.png"
+    ],
+    "a3973": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3973.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3973-DSC_0068-2.png"
+    ],
+    "a3975": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3975.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3975-jmac_MG_5721.png"
+    ],
+    "a3976": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3976.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3976-Ja_Pe-10.png"
+    ],
+    "a3991": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3991.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3991-DSC_0005-2.png"
+    ],
+    "a3992": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3992.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3992-KE_-0044.png"
+    ],
+    "a3993": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3993.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3993-IMG_2812.png"
+    ],
+    "a3995": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a3995.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a3995-IMG_0187.png"
+    ],
+    "a4001": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4001.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4001-jn_20070824_0168.png"
+    ],
+    "a4003": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4003.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4003-NKIM_MG_6603.png"
+    ],
+    "a4004": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4004.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4004-050812_113412__MG_3770.png"
+    ],
+    "a4007": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4007.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4007-_MG_7167.png"
+    ],
+    "a4008": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4008.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4008-dgw_019.png"
+    ],
+    "a4009": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4009.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4009-jmac_MG_7717.png"
+    ],
+    "a4013": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4013.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4013-_I2E6911.png"
+    ],
+    "a4014": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4014.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4014-JI2E4114.png"
+    ],
+    "a4017": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4017.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4017-DSC_0023.png"
+    ],
+    "a4020": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4020.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4020-IMG_3763.png"
+    ],
+    "a4025": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4025.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4025-IMG_5601.png"
+    ],
+    "a4026": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4026.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4026-NKIM_MG_6632.png"
+    ],
+    "a4027": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4027.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4027-IMG_2393.png"
+    ],
+    "a4028": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4028.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4028-060810_105728__MG_6096.png"
+    ],
+    "a4038": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4038.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4038-Ja_Pe-20.png"
+    ],
+    "a4040": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4040.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4040-IMG_0233.png"
+    ],
+    "a4047": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4047.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4047-IMG_1285.png"
+    ],
+    "a4049": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4049.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4049-_DSC3858.png"
+    ],
+    "a4051": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4051.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4051-_DSC0018-3.png"
+    ],
+    "a4052": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4052.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4052-20060620_165511__MG_9535.png"
+    ],
+    "a4060": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4060.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4060-_DSC5597.png"
+    ],
+    "a4064": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4064.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4064-07-12-02-at-16h23m18s-_MG_9020.png"
+    ],
+    "a4068": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4068.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4068-tc_DSC2612.png"
+    ],
+    "a4075": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4075.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4075-JI2E0444.png"
+    ],
+    "a4076": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4076.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4076-_DGW6244.png"
+    ],
+    "a4080": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4080.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4080-IMG_3765.png"
+    ],
+    "a4085": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4085.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4085-_MG_2385.png"
+    ],
+    "a4087": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4087.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4087-NKIM_MG_6395.png"
+    ],
+    "a4088": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4088.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4088-dvf_041.png"
+    ],
+    "a4091": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4091.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4091-_DSC0041.png"
+    ],
+    "a4092": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4092.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4092-07-12-03-at-09h35m54s-_MG_9192.png"
+    ],
+    "a4093": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4093.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4093-jn_20071117-031.png"
+    ],
+    "a4096": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4096.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4096-jmac_MG_0095.png"
+    ],
+    "a4097": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4097.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4097-20080623_at_14h52m36__MG_9904.png"
+    ],
+    "a4099": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4099.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4099-_DSC0014-2.png"
+    ],
+    "a4101": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4101.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4101-IMG_5823.png"
+    ],
+    "a4102": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4102.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4102-07-06-30-at-11h38m56s-_MG_1997.png"
+    ],
+    "a4104": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4104.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4104-DSC_0260.png"
+    ],
+    "a4105": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4105.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4105-07-11-26-at-16h02m57s-_MG_7151.png"
+    ],
+    "a4107": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4107.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4107-dvf_018.png"
+    ],
+    "a4108": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4108.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4108-MB_080329_057.png"
+    ],
+    "a4110": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4110.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4110-dgw_069.png"
+    ],
+    "a4113": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4113.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4113-IMG_2800.png"
+    ],
+    "a4116": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4116.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4116-IMG_2042.png"
+    ],
+    "a4117": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4117.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4117-050918_141526__MG_5987.png"
+    ],
+    "a4124": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4124.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4124-20080709_at_10h04m23__MG_4561.png"
+    ],
+    "a4127": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4127.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4127-DSC_0152.png"
+    ],
+    "a4131": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4131.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4131-DSC_0001-2.png"
+    ],
+    "a4134": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4134.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4134-IMG_0086.png"
+    ],
+    "a4142": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4142.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4142-_DGW6275.png"
+    ],
+    "a4143": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4143.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4143-LSCRW_0029.png"
+    ],
+    "a4144": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4144.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4144-050623_122602__MG_3246.png"
+    ],
+    "a4150": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4150.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4150-_DGW6309.png"
+    ],
+    "a4151": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4151.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4151-dvf_026.png"
+    ],
+    "a4154": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4154.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4154-IMG_4620.png"
+    ],
+    "a4155": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4155.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4155-WP_CRW_0237.png"
+    ],
+    "a4156": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4156.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4156-IMG_0159.png"
+    ],
+    "a4158": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4158.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4158-WP_CRW_4109.png"
+    ],
+    "a4160": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4160.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4160-jn_20070824_0167.png"
+    ],
+    "a4161": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4161.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4161-tc_DSC2218.png"
+    ],
+    "a4167": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4167.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4167-IMG_0031.png"
+    ],
+    "a4170": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4170.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4170-jmac_DSC3333.png"
+    ],
+    "a4174": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4174.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4174-dgw_083.png"
+    ],
+    "a4177": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4177.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4177-jmac_DSC1412.png"
+    ],
+    "a4178": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4178.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4178-IMG_0487.png"
+    ],
+    "a4184": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4184.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4184-jmac_MG_5507.png"
+    ],
+    "a4185": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4185.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4185-DSC_0055-2.png"
+    ],
+    "a4188": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4188.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4188-_MG_1604.png"
+    ],
+    "a4191": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4191.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4191-IMG_4849.png"
+    ],
+    "a4194": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4194.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4194-LS051026_day_1_arive50.png"
+    ],
+    "a4197": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4197.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4197-_MG_6428.png"
+    ],
+    "a4198": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4198.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4198-_DSC6401.png"
+    ],
+    "a4199": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4199.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4199-jmac_MG_5003.png"
+    ],
+    "a4201": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4201.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4201-_DSC0120.png"
+    ],
+    "a4202": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4202.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4202-DSC_0439.png"
+    ],
+    "a4204": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4204.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4204-_DGW7870.png"
+    ],
+    "a4212": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4212.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4212-Duggan_090321_5925.png"
+    ],
+    "a4214": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4214.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4214-DSC_0267.png"
+    ],
+    "a4216": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4216.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4216-DSC_0118.png"
+    ],
+    "a4220": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4220.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4220-Duggan_090305_5359.png"
+    ],
+    "a4228": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4228.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4228-DSC_0037-2.png"
+    ],
+    "a4230": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4230.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4230-Duggan_090426_7798.png"
+    ],
+    "a4231": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4231.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4231-Duggan_080326_5786.png"
+    ],
+    "a4232": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4232.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4232-Duggan_090323_6181.png"
+    ],
+    "a4235": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4235.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4235-DSC_0433.png"
+    ],
+    "a4236": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4236.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4236-DSC_0384.png"
+    ],
+    "a4237": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4237.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4237-20090417_at_18h06m01__MG_1955.png"
+    ],
+    "a4238": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4238.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4238-Duggan_090320_5609.png"
+    ],
+    "a4239": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4239.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4239-Duggan_080114_4429.png"
+    ],
+    "a4244": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4244.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4244-Duggan_090504_8959.png"
+    ],
+    "a4246": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4246.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4246-Duggan_090330_6226.png"
+    ],
+    "a4249": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4249.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4249-Duggan_090322_6001.png"
+    ],
+    "a4254": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4254.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4254-DSC_0066.png"
+    ],
+    "a4258": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4258.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4258-_DSC0012-4.png"
+    ],
+    "a4262": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4262.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4262-DSC_0065.png"
+    ],
+    "a4266": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4266.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4266-DSC_0426.png"
+    ],
+    "a4267": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4267.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4267-20090414_at_23h13m08__MG_1367.png"
+    ],
+    "a4271": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4271.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4271-Duggan_090227_5232.png"
+    ],
+    "a4272": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4272.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4272-DSC_0398.png"
+    ],
+    "a4275": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4275.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4275-09-05-12-at-17h46m31s-_MG_8890.png"
+    ],
+    "a4287": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4287.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4287-_DSC0083.png"
+    ],
+    "a4291": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4291.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4291-20090417_at_18h46m58__MG_2026.png"
+    ],
+    "a4297": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4297.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4297-_DSC0034.png"
+    ],
+    "a4298": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4298.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4298-Duggan_090504_9090.png"
+    ],
+    "a4302": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4302.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4302-20090425_at_17h00m59__MG_0404.png"
+    ],
+    "a4304": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4304.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4304-09-05-19-at-18h03m17s-_MG_9540.png"
+    ],
+    "a4307": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4307.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4307-20050328_161219__MG_0628.png"
+    ],
+    "a4308": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4308.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4308-Duggan_090209_4996.png"
+    ],
+    "a4310": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4310.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4310-DSC_0007.png"
+    ],
+    "a4312": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4312.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4312-20090417_at_16h32m44__MG_1867.png"
+    ],
+    "a4317": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4317.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4317-DSC_0224.png"
+    ],
+    "a4318": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4318.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4318-Duggan_090321_5920.png"
+    ],
+    "a4319": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4319.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4319-DSC_0132.png"
+    ],
+    "a4323": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4323.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4323-DSC_0010.png"
+    ],
+    "a4324": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4324.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4324-DSC_0002.png"
+    ],
+    "a4326": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4326.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4326-DSC_0461.png"
+    ],
+    "a4329": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4329.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4329-DSC_0028.png"
+    ],
+    "a4331": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4331.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4331-_DGW0241.png"
+    ],
+    "a4335": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4335.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4335-Duggan_090123_4520.png"
+    ],
+    "a4338": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4338.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4338-DSC_0206.png"
+    ],
+    "a4339": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4339.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4339-Duggan_090111_4244.png"
+    ],
+    "a4340": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4340.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4340-DSC_0441.png"
+    ],
+    "a4342": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4342.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4342-DSC_0043.png"
+    ],
+    "a4345": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4345.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4345-Duggan_080411_5976.png"
+    ],
+    "a4354": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4354.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4354-DSC_0347.png"
+    ],
+    "a4356": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4356.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4356-_DSC1335.png"
+    ],
+    "a4357": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4357.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4357-Duggan_090124_4645.png"
+    ],
+    "a4366": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4366.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4366-DSC_0447.png"
+    ],
+    "a4368": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4368.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4368-Duggan_090321_5857.png"
+    ],
+    "a4370": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4370.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4370-DSC_0080.png"
+    ],
+    "a4374": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4374.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4374-09-05-19-at-17h54m57s-_MG_9531.png"
+    ],
+    "a4377": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4377.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4377-IMG_4929.png"
+    ],
+    "a4382": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4382.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4382-DSC_0261.png"
+    ],
+    "a4384": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4384.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4384-DSC_0322.png"
+    ],
+    "a4385": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4385.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4385-_DGW9650.png"
+    ],
+    "a4386": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4386.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4386-Duggan_090124_4632.png"
+    ],
+    "a4392": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4392.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4392-Duggan_090331_6554.png"
+    ],
+    "a4394": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4394.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4394-Duggan_090127_4837.png"
+    ],
+    "a4395": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4395.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4395-Duggan_090503_8734.png"
+    ],
+    "a4396": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4396.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4396-DSC_0073-2.png"
+    ],
+    "a4398": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4398.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4398-Duggan_050709_1062.png"
+    ],
+    "a4399": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4399.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4399-Duggan_080410_5879.png"
+    ],
+    "a4409": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4409.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4409-Duggan_090503_8738.png"
+    ],
+    "a4419": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4419.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4419-_DGW0269.png"
+    ],
+    "a4420": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4420.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4420-DSC_0054.png"
+    ],
+    "a4421": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4421.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4421-Duggan_090214_5129.png"
+    ],
+    "a4425": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4425.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4425-DSC_0007.png"
+    ],
+    "a4430": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4430.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4430-09-05-19-at-19h04m03s-_MG_9559.png"
+    ],
+    "a4431": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4431.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4431-Duggan_090330_6282.png"
+    ],
+    "a4432": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4432.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4432-Duggan_081114_3124.png"
+    ],
+    "a4433": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4433.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4433-Duggan_090504_8957.png"
+    ],
+    "a4434": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4434.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4434-20090414_at_23h05m38__MG_1365.png"
+    ],
+    "a4435": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4435.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4435-WP_CRW_0591.png"
+    ],
+    "a4436": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4436.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4436-DSC_0153.png"
+    ],
+    "a4442": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4442.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4442-Duggan_080629_9284.png"
+    ],
+    "a4447": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4447.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4447-Duggan_090321_5856.png"
+    ],
+    "a4448": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4448.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4448-Duggan_080119_4778.png"
+    ],
+    "a4449": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4449.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4449-DSC_0030.png"
+    ],
+    "a4452": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4452.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4452-DSC_0084.png"
+    ],
+    "a4455": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4455.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4455-Duggan_080106_4325.png"
+    ],
+    "a4456": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4456.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4456-DSC_0472.png"
+    ],
+    "a4457": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4457.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4457-_DSC0012-5.png"
+    ],
+    "a4465": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4465.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4465-DSC_0051.png"
+    ],
+    "a4466": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4466.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4466-20090327_at_11h08m58__MG_0964.png"
+    ],
+    "a4467": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4467.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4467-Duggan_090426_7873.png"
+    ],
+    "a4470": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4470.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4470-Duggan_090123_4566.png"
+    ],
+    "a4471": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4471.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4471-Duggan_090321_5859.png"
+    ],
+    "a4472": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4472.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4472-Duggan_090504_9026.png"
+    ],
+    "a4474": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4474.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4474-09-05-19-at-18h56m31s-_MG_9553.png"
+    ],
+    "a4476": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4476.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4476-IMG_4029.png"
+    ],
+    "a4477": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4477.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4477-20090327_at_06h09m52__MG_0855.png"
+    ],
+    "a4479": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4479.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4479-09-05-19-at-18h39m42s-_MG_9545.png"
+    ],
+    "a4480": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4480.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4480-Duggan_090201_4896.png"
+    ],
+    "a4487": [
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/a4487.png",
+      "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/lei21_CAN/lei21_CAN/a4487-Duggan_090322_5971.png"
+    ]
+  }
+}

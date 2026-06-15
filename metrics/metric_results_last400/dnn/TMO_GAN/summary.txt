@@ -1,0 +1,19 @@
+group: dnn
+method: TMO_GAN
+hdr_dir: /mnt/data_disk/HDRData/1000hdr/HDRtest
+ldr_dir: /mnt/data_disk/ZQL/TIP_TMO_result/dnn/TMO_GAN
+selection: last 400 references after filename sort
+first_reference: a2808-20080516_072208__MG_0018.exr
+last_reference: a4487-Duggan_090322_5971.exr
+num_expected: 400
+num_valid: 400
+num_missing: 0
+num_errors: 0
+num_duplicate_output_ids: 0
+mean_tmqi_q: 0.838010
+mean_tmqi_s: 0.844586
+mean_tmqi_n: 0.303499
+mean_tmqi2_q: 0.564560
+mean_tmqi2_s: 0.816777
+mean_tmqi2_n: 0.312343
+mean_nlpd: 0.155224

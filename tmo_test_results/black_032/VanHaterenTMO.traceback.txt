@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/Users/qiulin/PycharmProjects/HDRTMO/tools/test_all_tmos.py", line 177, in run
+    mapped = primary_output(operator.function(test_image.copy()))
+  File "/Users/qiulin/PycharmProjects/HDRTMO/hdrtmo/tmo_local.py", line 334, in van_hateren_tmo
+    ios = np.array([brentq(lambda x, value=v: a_c * x**5 + x**4 - 1 / (c_beta + k_beta * value), 0, maximum) for v in values.ravel()]).reshape(values.shape)
+  File "/Users/qiulin/PycharmProjects/HDRTMO/hdrtmo/tmo_local.py", line 334, in <listcomp>
+    ios = np.array([brentq(lambda x, value=v: a_c * x**5 + x**4 - 1 / (c_beta + k_beta * value), 0, maximum) for v in values.ravel()]).reshape(values.shape)
+  File "/opt/anaconda3/envs/hdrtmo/lib/python3.10/site-packages/scipy/optimize/_zeros_py.py", line 798, in brentq
+    r = _zeros._brentq(f, a, b, xtol, rtol, maxiter, args, full_output, disp)
+ValueError: f(a) and f(b) must have different signs

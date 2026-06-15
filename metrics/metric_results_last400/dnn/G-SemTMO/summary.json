@@ -1,0 +1,45 @@
+{
+  "group": "dnn",
+  "method": "G-SemTMO",
+  "hdr_dir": "/mnt/data_disk/HDRData/1000hdr/HDRtest",
+  "ldr_dir": "/mnt/data_disk/ZQL/TIP_TMO_result/dnn/G-SemTMO",
+  "selection": "last 400 references after filename sort",
+  "first_reference": "a2808-20080516_072208__MG_0018.exr",
+  "last_reference": "a4487-Duggan_090322_5971.exr",
+  "num_expected": 400,
+  "num_valid": 395,
+  "num_missing": 5,
+  "num_errors": 0,
+  "num_duplicate_output_ids": 0,
+  "mean_tmqi_q": 0.7622887536215656,
+  "mean_tmqi_s": 0.8069711036826139,
+  "mean_tmqi_n": 0.038934459960396496,
+  "mean_tmqi2_q": 0.33404296801536204,
+  "mean_tmqi2_s": 0.6509755059160507,
+  "mean_tmqi2_n": 0.01711043011467314,
+  "mean_nlpd": 0.1469859437003166,
+  "missing": [
+    {
+      "id": "a3306",
+      "hdr_path": "/mnt/data_disk/HDRData/1000hdr/HDRtest/a3306-IMG_4969.exr"
+    },
+    {
+      "id": "a3719",
+      "hdr_path": "/mnt/data_disk/HDRData/1000hdr/HDRtest/a3719-07-11-29-at-15h43m28s-_MG_8075.exr"
+    },
+    {
+      "id": "a3816",
+      "hdr_path": "/mnt/data_disk/HDRData/1000hdr/HDRtest/a3816-jmac_DSC3118.exr"
+    },
+    {
+      "id": "a4178",
+      "hdr_path": "/mnt/data_disk/HDRData/1000hdr/HDRtest/a4178-IMG_0487.exr"
+    },
+    {
+      "id": "a4197",
+      "hdr_path": "/mnt/data_disk/HDRData/1000hdr/HDRtest/a4197-_MG_6428.exr"
+    }
+  ],
+  "errors": [],
+  "duplicate_output_ids": {}
+}
