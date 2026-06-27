@@ -1,4 +1,4 @@
-# 🌈 HDR Tone Mapping: From Acquisition to Evaluation
+# 🌈 HDR Tone Mapping: From Data Acquisition to Visual Quality Evaluation
 
 Survey resources, MATLAB experiment results, and a reference Python
 implementation for:
