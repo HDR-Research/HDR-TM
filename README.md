@@ -51,18 +51,18 @@ The datasets reviewed in the survey differ substantially in acquisition, encodin
 
 | Dataset              | Year | Images | Acquisition / synthesis                                | Encoding | Resolution  | Format       | Linear scaling        | Public access                                                                                      |
 | -------------------- | ---- | ------ | ------------------------------------------------------ | -------- | ----------- | ------------ | --------------------- | -------------------------------------------------------------------------------------------------- |
-| HDR-gallery\[46]     | 2007 | 8      | Multi-exposure compositing                             | Linear   | 混合          | Radiance HDR | ×1/100 linear scaling | [Link](https://pfstools.sourceforge.net/hdr_gallery.html)                                          |
-| HDRPS\[47]           | 2007 | 106    | Multi-exposure compositing                             | Linear   | 混合          | Radiance HDR | ×1/100 linear scaling | [Link](http://markfairchild.org/HDR.html)                                                          |
-| Funt\[48]            | 2010 | 105    | Multi-exposure compositing (Nikon D700)                | Linear   | 1422 × 2142 | Radiance HDR | ×1/100 linear scaling | [Link](https://www.cs.sfu.ca/~colour/data/funt_hdr/)                                               |
-| MIT-Adobe FiveK\[49] | 2011 | 5000   | —                                                      | —        | 混合          | DNG/TIFF     | None                  | [Link](https://data.csail.mit.edu/graphics/fivek/)                                                 |
-| Narwaria\[50]        | 2013 | 10     | Multi-exposure compositing                             | Linear   | 1080 × 1920 | OpenEXR      | None                  | [Link](https://www.repository.cam.ac.uk/items)                                                     |
-| Korshunov\[50]       | 2015 | 20     | —                                                      | Linear   | 1080 × 944  | OpenEXR      | None                  | [Link](https://www.repository.cam.ac.uk/items)                                                     |
-| HDR-Eye\[51]         | 2015 | 46     | —                                                      | Linear   | 1080 × 1920 | Radiance HDR | None                  | [Link](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)                                          |
-| SJTU-HDR\[52]        | 2016 | 16     | HDR video capture (Sony F65/F55)                       | PQ       | 2160 × 3840 | OpenEXR      | Nonlinear storage     | [Link](https://medialab.sjtu.edu.cn/files)                                                         |
-| LVZ\[53]             | 2021 | 457    | —                                                      | Linear   | 混合          | Radiance HDR | ×1/100 linear scaling | [Link](https://www.kaggle.com/datasets/landrykezebou/lvzhdr-tone-mapping-benchmark-dataset-tmonet) |
-| HDRC\[54]            | 2024 | 80     | —                                                      | Linear   | 1080 × 1920 | OpenEXR      | ×1/100 linear scaling | [Link](https://github.com/Yliu724/HDRC)                                                            |
-| HDRQAD\[55]          | 2025 | 147    | —                                                      | Linear   | 1080 × 944  | OpenEXR      | ×1/100 linear scaling | [Link](https://github.com/SHU-HDRQAD/HDR-IQA-Dataset)                                              |
-| HDRT\[56]            | 2025 | 10,000 | RGB + infrared multimodal capture; Debevec compositing | Linear   | 5120 × 3840 | Radiance HDR | None                  | [Link](https://huggingface.co/datasets/jingchao-peng/HDRTDataset)                                  |
+| HDR-gallery     | 2007 | 8      | Multi-exposure compositing                             | Linear   | 混合          | Radiance HDR | ×1/100 linear scaling | [Link](https://pfstools.sourceforge.net/hdr_gallery.html)                                          |
+| HDRPS           | 2007 | 106    | Multi-exposure compositing                             | Linear   | 混合          | Radiance HDR | ×1/100 linear scaling | [Link](http://markfairchild.org/HDR.html)                                                          |
+| Funt            | 2010 | 105    | Multi-exposure compositing (Nikon D700)                | Linear   | 1422 × 2142 | Radiance HDR | ×1/100 linear scaling | [Link](https://www.cs.sfu.ca/~colour/data/funt_hdr/)                                               |
+| MIT-Adobe FiveK | 2011 | 5000   | —                                                      | —        | 混合          | DNG/TIFF     | None                  | [Link](https://data.csail.mit.edu/graphics/fivek/)                                                 |
+| Narwaria        | 2013 | 10     | Multi-exposure compositing                             | Linear   | 1080 × 1920 | OpenEXR      | None                  | [Link](https://www.repository.cam.ac.uk/items)                                                     |
+| Korshunov       | 2015 | 20     | —                                                      | Linear   | 1080 × 944  | OpenEXR      | None                  | [Link](https://www.repository.cam.ac.uk/items)                                                     |
+| HDR-Eye         | 2015 | 46     | —                                                      | Linear   | 1080 × 1920 | Radiance HDR | None                  | [Link](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)                                          |
+| SJTU-HDR        | 2016 | 16     | HDR video capture (Sony F65/F55)                       | PQ       | 2160 × 3840 | OpenEXR      | Nonlinear storage     | [Link](https://medialab.sjtu.edu.cn/files)                                                         |
+| LVZ             | 2021 | 457    | —                                                      | Linear   | 混合          | Radiance HDR | ×1/100 linear scaling | [Link](https://www.kaggle.com/datasets/landrykezebou/lvzhdr-tone-mapping-benchmark-dataset-tmonet) |
+| HDRC            | 2024 | 80     | —                                                      | Linear   | 1080 × 1920 | OpenEXR      | ×1/100 linear scaling | [Link](https://github.com/Yliu724/HDRC)                                                            |
+| HDRQAD          | 2025 | 147    | —                                                      | Linear   | 1080 × 944  | OpenEXR      | ×1/100 linear scaling | [Link](https://github.com/SHU-HDRQAD/HDR-IQA-Dataset)                                              |
+| HDRT            | 2025 | 10,000 | RGB + infrared multimodal capture; Debevec compositing | Linear   | 5120 × 3840 | Radiance HDR | None                  | [Link](https://huggingface.co/datasets/jingchao-peng/HDRTDataset)                                  |
 
 | ![Sample 1](assets/figures/dataset-sample-01.jpg) | ![Sample 2](assets/figures/dataset-sample-02.jpg) | ![Sample 3](assets/figures/dataset-sample-03.jpg) | ![Sample 4](assets/figures/dataset-sample-04.jpg) | ![Sample 5](assets/figures/dataset-sample-05.jpg)  |
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
@@ -78,45 +78,45 @@ The survey groups traditional methods by spatial behavior and learning-based met
 | Logarithmic       | -    | Global    | Logarithmic global compression, usually normalized by peak luminance                                                          |
 | Exponential       | -    | Global    | Exponential global mapping, strong highlight compression but limited shadow lifting                                           |
 | BestExp           | -    | Global    | Linear scaling to match mean-luminance or histogram exposure without changing the dynamic-range structure                     |
-| Ward\[4]          | 1997 | Global    | Global histogram adjustment based on the HVS contrast-sensitivity function, preserving visibility thresholds                  |
-| Ashikhmin02\[61]  | 2002 | Local     | TVI-based contrast sensitivity with adaptive neighborhood selection                                                           |
-| Drago03\[5]       | 2003 | Global    | Adaptive logarithmic global compression with parameters adjusted to the image luminance distribution                          |
-| Reinhard02\[28]   | 2002 | Hybrid    | Photographic tone reproduction combining global compression with local dodging-and-burning                                    |
-| Reinhard05\[6]    | 2005 | Global    | Photoreceptor-inspired global nonlinear mapping simulating human luminance adaptation                                         |
-| Lischinski06\[62] | 2006 | Local     | Interactive local tonal adjustment via energy minimization                                                                    |
-| Kim08\[7]         | 2008 | Global    | Sigmoid global mapping with visual-consistency constraints to preserve contrast and naturalness                               |
-| Raman09\[63]      | 2009 | Local     | Bilateral-filter base/detail decomposition with multi-exposure fusion style local tone mapping                                |
-| Shan10\[64]       | 2010 | Local     | Spatially varying linear-window mapping with per-pixel exposure adjustment                                                    |
-| Mai11\[8]         | 2011 | Global    | Global tone-curve optimization (backward compatible)                                                                          |
-| Shibata16\[65]    | 2016 | Local     | Gradient-domain reconstruction with base-structure constraints                                                                |
-| Abebe17\[9]       | 2017 | Global    | Perceptual-lightness-based luminance remapping                                                                                |
-| Liang18\[66]      | 2018 | Local     | Hybrid l1-l0 layer decomposition separating base and detail layers                                                            |
-| Yang21\[67]       | 2021 | Local     | Spatially adaptive multi-scale histogram synthesis for local contrast                                                         |
-| Tariq23\[68]      | 2023 | Local     | Perceptually adaptive spatially varying mapping, adjusting luminance and contrast per region                                  |
-| Unpaired-TMO\[69] | 2021 | GAN       | Unpaired image translation with structure-preserving loss                                                                     |
-| DRLTM\[70]        | 2021 | CNN       | Laplacian-pyramid hierarchical mapping: separate subnetworks process global low-frequency and local high-frequency components |
-| Le21\[71]         | 2021 | CNN       | Normalized Laplacian-pyramid decomposition trained with the perceptual metric NLPD as loss                                    |
-| TMO-GAN\[72]      | 2023 | GAN       | End-to-end GAN generating tone-mapped images directly in the RGB domain                                                       |
-| G-SemTMO\[73]     | 2024 | CNN       | Region-wise block mapping guided by semantic segmentation                                                                     |
-| UnCLTMO\[11]      | 2024 | CNN       | Unpaired contrastive representation learning                                                                                  |
-| ZSDH\[74]         | 2024 | Diffusion | Zero-shot structure-preserving diffusion-based HDR tone mapping                                                               |
-| PS-TMO\[10]       | 2025 | CNN       | Laplacian pyramid combined with pseudo-exposure decomposition and fusion                                                      |
+| Ward          | 1997 | Global    | Global histogram adjustment based on the HVS contrast-sensitivity function, preserving visibility thresholds                  |
+| Ashikhmin02  | 2002 | Local     | TVI-based contrast sensitivity with adaptive neighborhood selection                                                           |
+| Drago03       | 2003 | Global    | Adaptive logarithmic global compression with parameters adjusted to the image luminance distribution                          |
+| Reinhard02   | 2002 | Hybrid    | Photographic tone reproduction combining global compression with local dodging-and-burning                                    |
+| Reinhard05    | 2005 | Global    | Photoreceptor-inspired global nonlinear mapping simulating human luminance adaptation                                         |
+| Lischinski06 | 2006 | Local     | Interactive local tonal adjustment via energy minimization                                                                    |
+| Kim08         | 2008 | Global    | Sigmoid global mapping with visual-consistency constraints to preserve contrast and naturalness                               |
+| Raman09      | 2009 | Local     | Bilateral-filter base/detail decomposition with multi-exposure fusion style local tone mapping                                |
+| Shan10       | 2010 | Local     | Spatially varying linear-window mapping with per-pixel exposure adjustment                                                    |
+| Mai11         | 2011 | Global    | Global tone-curve optimization (backward compatible)                                                                          |
+| Shibata16    | 2016 | Local     | Gradient-domain reconstruction with base-structure constraints                                                                |
+| Abebe17       | 2017 | Global    | Perceptual-lightness-based luminance remapping                                                                                |
+| Liang18      | 2018 | Local     | Hybrid l1-l0 layer decomposition separating base and detail layers                                                            |
+| Yang21       | 2021 | Local     | Spatially adaptive multi-scale histogram synthesis for local contrast                                                         |
+| Tariq23      | 2023 | Local     | Perceptually adaptive spatially varying mapping, adjusting luminance and contrast per region                                  |
+| Unpaired-TMO | 2021 | GAN       | Unpaired image translation with structure-preserving loss                                                                     |
+| DRLTM        | 2021 | CNN       | Laplacian-pyramid hierarchical mapping: separate subnetworks process global low-frequency and local high-frequency components |
+| Le21         | 2021 | CNN       | Normalized Laplacian-pyramid decomposition trained with the perceptual metric NLPD as loss                                    |
+| TMO-GAN      | 2023 | GAN       | End-to-end GAN generating tone-mapped images directly in the RGB domain                                                       |
+| G-SemTMO     | 2024 | CNN       | Region-wise block mapping guided by semantic segmentation                                                                     |
+| UnCLTMO      | 2024 | CNN       | Unpaired contrastive representation learning                                                                                  |
+| ZSDH         | 2024 | Diffusion | Zero-shot structure-preserving diffusion-based HDR tone mapping                                                               |
+| PS-TMO       | 2025 | CNN       | Laplacian pyramid combined with pseudo-exposure decomposition and fusion                                                      |
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-01.png" width="220" alt="(a) Gamma"><br><b>(a) Gamma</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-02.png" width="220" alt="(b) BestExp(Hist)"><br><b>(b) BestExp(Hist)</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-03.png" width="220" alt="(c) BestExp(Mean)"><br><b>(c) BestExp(Mean)</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-04.png" width="220" alt="(d) Exponential"><br><b>(d) Exponential</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-05.png" width="220" alt="(e) Drago03[5]"><br><b>(e) Drago03[5]</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-01.png" width="220" alt="(a) Gamma"><br><b>(a) Gamma</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-02.png" width="220" alt="(b) BestExp(Hist)"><br><b>(b) BestExp(Hist)</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-03.png" width="220" alt="(c) BestExp(Mean)"><br><b>(c) BestExp(Mean)</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-04.png" width="220" alt="(d) Exponential"><br><b>(d) Exponential</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-05.png" width="220" alt="(e) Drago03"><br><b>(e) Drago03</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-06.png" width="220" alt="(f) Ashikhmin02[61]"><br><b>(f) Ashikhmin02[61]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-07.png" width="220" alt="(g) Kim08[7]"><br><b>(g) Kim08[7]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-08.png" width="220" alt="(h) Lischinski06[62]"><br><b>(h) Lischinski06[62]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-09.png" width="220" alt="(i) Logarithmic"><br><b>(i) Logarithmic</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-10.png" width="220" alt="(j) Raman09[63]"><br><b>(j) Raman09[63]</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-06.png" width="220" alt="(f) Ashikhmin02"><br><b>(f) Ashikhmin02</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-07.png" width="220" alt="(g) Kim08"><br><b>(g) Kim08</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-08.png" width="220" alt="(h) Lischinski06"><br><b>(h) Lischinski06</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-09.png" width="220" alt="(i) Logarithmic"><br><b>(i) Logarithmic</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-10.png" width="220" alt="(j) Raman09"><br><b>(j) Raman09</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-11.png" width="220" alt="(k) Reinhard02(Global)[28]"><br><b>(k) Reinhard02(Global)[28]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-12.png" width="220" alt="(l) Reinhard02(Local)[28]"><br><b>(l) Reinhard02(Local)[28]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-13.png" width="220" alt="(m) Reinhard05[6]"><br><b>(m) Reinhard05[6]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-14.png" width="220" alt="(n) Shibata16[65]"><br><b>(n) Shibata16[65]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-15.png" width="220" alt="(o) Ward[4]"><br><b>(o) Ward[4]</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-11.png" width="220" alt="(k) Reinhard02(Global)"><br><b>(k) Reinhard02(Global)</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-12.png" width="220" alt="(l) Reinhard02(Local)"><br><b>(l) Reinhard02(Local)</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-13.png" width="220" alt="(m) Reinhard05"><br><b>(m) Reinhard05</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-14.png" width="220" alt="(n) Shibata16"><br><b>(n) Shibata16</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-15.png" width="220" alt="(o) Ward"><br><b>(o) Ward</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-16.png" width="220" alt="(p) G-SemTMO[73]"><br><b>(p) G-SemTMO[73]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-17.png" width="220" alt="(q) DRLTM[70]"><br><b>(q) DRLTM[70]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-18.png" width="220" alt="(r) TMO-GAN[72]"><br><b>(r) TMO-GAN[72]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-19.png" width="220" alt="(s) Unpaired-TMO[69]"><br><b>(s) Unpaired-TMO[69]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-20.png" width="220" alt="(t) Le21[71]"><br><b>(t) Le21[71]</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-16.png" width="220" alt="(p) G-SemTMO"><br><b>(p) G-SemTMO</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-17.png" width="220" alt="(q) DRLTM"><br><b>(q) DRLTM</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-18.png" width="220" alt="(r) TMO-GAN"><br><b>(r) TMO-GAN</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-19.png" width="220" alt="(s) Unpaired-TMO"><br><b>(s) Unpaired-TMO</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-20.png" width="220" alt="(t) Le21"><br><b>(t) Le21</b></td>
   </tr>
   <tr>
-    <td></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-21.png" width="220" alt="(u) ZSDH[74]"><br><b>(u) ZSDH[74]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-22.png" width="220" alt="(v) UnCLTMO[11]"><br><b>(v) UnCLTMO[11]</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-23.png" width="220" alt="(w) PS-TMO[10]"><br><b>(w) PS-TMO[10]</b></td> <td></td>
+    <td></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-21.png" width="220" alt="(u) ZSDH"><br><b>(u) ZSDH</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-22.png" width="220" alt="(v) UnCLTMO"><br><b>(v) UnCLTMO</b></td> <td align="center"><img src="https://raw.githubusercontent.com/HDR-Research/HDR-TM/main/assets/figures/tmo-23.png" width="220" alt="(w) PS-TMO"><br><b>(w) PS-TMO</b></td> <td></td>
   </tr>
 </table>
 
@@ -243,24 +243,24 @@ Traditional TMO images in this benchmark were generated in MATLAB. Deep learning
 | Exponential             | 0.8941     | 0.8324     | 0.6110     | **0.8908** | 0.8365     | **0.9452** | 0.4679     | 3.8084     | **0.3475** | 1.2396     |
 | BestExp(Hist)           | 0.8738     | 0.8486     | 0.4735     | 0.7463     | 0.8198     | 0.6728     | 0.4609     | 4.1495     | 0.2995     | 1.2282     |
 | BestExp(Mean)           | 0.8568     | **0.8736** | 0.3531     | 0.5992     | 0.7949     | 0.4034     | 0.4592     | 4.6653     | 0.2650     | 1.2274     |
-| Ward\[4]                | 0.8955     | 0.8128     | 0.6615     | 0.7249     | 0.8414     | 0.6083     | 0.4686     | 3.6815     | 0.3195     | 1.2084     |
-| Ashikhmin02\[61]        | 0.8630     | 0.7757     | 0.5373     | 0.4188     | 0.8003     | 0.0374     | 0.5033     | 4.1264     | 0.1419     | 1.1901     |
-| Drago03\[5]             | **0.9001** | 0.8049     | 0.6943     | 0.8199     | 0.8424     | 0.7973     | 0.4757     | 3.6231     | 0.2850     | 1.2271     |
-| Reinhard02(Local)\[28]  | 0.8717     | 0.7592     | 0.6181     | 0.6954     | 0.8451     | 0.5456     | 0.4791     | 4.0320     | 0.3173     | 1.2313     |
-| Reinhard02(Global)\[28] | 0.8889     | 0.7855     | 0.6631     | 0.6615     | 0.8271     | 0.4958     | 0.4813     | 3.9581     | 0.3112     | 1.2102     |
-| Reinhard05\[6]          | 0.8287     | 0.8384     | 0.2696     | 0.4110     | 0.7666     | 0.0554     | 0.4984     | 4.8078     | 0.1770     | 1.1855     |
-| Lischinski06\[62]       | 0.8978     | 0.8082     | 0.6763     | 0.8244     | 0.8367     | 0.8122     | 0.4733     | 3.6672     | 0.3153     | **1.2438** |
-| Kim08\[7]               | 0.8710     | 0.7643     | 0.6011     | 0.4710     | 0.7977     | 0.1442     | 0.4952     | 4.1326     | 0.0351     | 1.1453     |
-| Raman09\[63]            | 0.8132     | 0.7830     | 0.2675     | 0.4210     | 0.7561     | 0.0858     | 0.5149     | 5.1604     | 0.1223     | 1.2347     |
-| Shibata16\[65]          | 0.8773     | 0.7906     | 0.5921     | 0.4845     | 0.8149     | 0.1541     | 0.4939     | 3.8263     | 0.1582     | 1.2022     |
-| DRLTM\[70]              | 0.8782     | 0.7173     | **0.7268** | 0.4065     | 0.7838     | 0.0293     | 0.5005     | **3.4859** | 0.0524     | 1.1869     |
-| Le21\[71]               | 0.8305     | 0.8086     | 0.2902     | 0.4756     | 0.7350     | 0.2162     | **0.4443** | 3.8389     | 0.0417     | 1.1098     |
-| TMO-GAN\[72]            | 0.8383     | 0.8447     | 0.3046     | 0.5664     | 0.8171     | 0.3156     | 0.4669     | 4.7242     | 0.2631     | 1.1821     |
-| G-SemTMO\[73]           | 0.7631     | 0.8091     | 0.0393     | 0.3360     | 0.6544     | 0.0176     | 0.4637     | 6.5185     | -0.0930    | 1.0904     |
-| UnCLTMO\[11]            | 0.8741     | 0.8056     | 0.5419     | 0.5441     | 0.8155     | 0.2727     | 0.4719     | 3.8877     | 0.1345     | 1.2337     |
-| Unpaired-TMO\[69]       | 0.8598     | 0.7789     | 0.5101     | 0.6437     | **0.8556** | 0.4318     | 0.4612     | 3.9261     | 0.2487     | 1.2194     |
-| ZSDH\[74]               | 0.6803     | 0.5583     | 0.0219     | 0.2580     | 0.5160     | 0.0000     | 0.5316     | 5.6180     | 0.0463     | 0.9701     |
-| PS-TMO\[10]             | 0.8710     | 0.8039     | 0.5167     | 0.4892     | 0.7182     | 0.2601     | 0.4610     | 3.8794     | 0.0782     | 1.1064     |
+| Ward                | 0.8955     | 0.8128     | 0.6615     | 0.7249     | 0.8414     | 0.6083     | 0.4686     | 3.6815     | 0.3195     | 1.2084     |
+| Ashikhmin02        | 0.8630     | 0.7757     | 0.5373     | 0.4188     | 0.8003     | 0.0374     | 0.5033     | 4.1264     | 0.1419     | 1.1901     |
+| Drago03             | **0.9001** | 0.8049     | 0.6943     | 0.8199     | 0.8424     | 0.7973     | 0.4757     | 3.6231     | 0.2850     | 1.2271     |
+| Reinhard02(Local)  | 0.8717     | 0.7592     | 0.6181     | 0.6954     | 0.8451     | 0.5456     | 0.4791     | 4.0320     | 0.3173     | 1.2313     |
+| Reinhard02(Global) | 0.8889     | 0.7855     | 0.6631     | 0.6615     | 0.8271     | 0.4958     | 0.4813     | 3.9581     | 0.3112     | 1.2102     |
+| Reinhard05          | 0.8287     | 0.8384     | 0.2696     | 0.4110     | 0.7666     | 0.0554     | 0.4984     | 4.8078     | 0.1770     | 1.1855     |
+| Lischinski06       | 0.8978     | 0.8082     | 0.6763     | 0.8244     | 0.8367     | 0.8122     | 0.4733     | 3.6672     | 0.3153     | **1.2438** |
+| Kim08               | 0.8710     | 0.7643     | 0.6011     | 0.4710     | 0.7977     | 0.1442     | 0.4952     | 4.1326     | 0.0351     | 1.1453     |
+| Raman09            | 0.8132     | 0.7830     | 0.2675     | 0.4210     | 0.7561     | 0.0858     | 0.5149     | 5.1604     | 0.1223     | 1.2347     |
+| Shibata16          | 0.8773     | 0.7906     | 0.5921     | 0.4845     | 0.8149     | 0.1541     | 0.4939     | 3.8263     | 0.1582     | 1.2022     |
+| DRLTM              | 0.8782     | 0.7173     | **0.7268** | 0.4065     | 0.7838     | 0.0293     | 0.5005     | **3.4859** | 0.0524     | 1.1869     |
+| Le21               | 0.8305     | 0.8086     | 0.2902     | 0.4756     | 0.7350     | 0.2162     | **0.4443** | 3.8389     | 0.0417     | 1.1098     |
+| TMO-GAN            | 0.8383     | 0.8447     | 0.3046     | 0.5664     | 0.8171     | 0.3156     | 0.4669     | 4.7242     | 0.2631     | 1.1821     |
+| G-SemTMO           | 0.7631     | 0.8091     | 0.0393     | 0.3360     | 0.6544     | 0.0176     | 0.4637     | 6.5185     | -0.0930    | 1.0904     |
+| UnCLTMO            | 0.8741     | 0.8056     | 0.5419     | 0.5441     | 0.8155     | 0.2727     | 0.4719     | 3.8877     | 0.1345     | 1.2337     |
+| Unpaired-TMO       | 0.8598     | 0.7789     | 0.5101     | 0.6437     | **0.8556** | 0.4318     | 0.4612     | 3.9261     | 0.2487     | 1.2194     |
+| ZSDH               | 0.6803     | 0.5583     | 0.0219     | 0.2580     | 0.5160     | 0.0000     | 0.5316     | 5.6180     | 0.0463     | 0.9701     |
+| PS-TMO             | 0.8710     | 0.8039     | 0.5167     | 0.4892     | 0.7182     | 0.2601     | 0.4610     | 3.8794     | 0.0782     | 1.1064     |
 
 The table follows the final survey manuscript (Table 6). Bold values are the best in each column. The synchronized machine-readable results are in [metrics/metric\_results\_last400](metrics/metric_results_last400). Most methods contain 400 valid image pairs; G-SemTMO contains 395, with five missing outputs recorded in the report.
 
@@ -276,35 +276,35 @@ A 2AFC paired-comparison study (12 subjects, 15 HDR scenes, \~16,200 comparisons
 | Exponential             | 0.4829  | 3    | 4    | -1   | 1       | +2   | 9    | -6   | 5     | -2   | 1       | +2   | 2     | +1   |
 | BestExp(Hist)           | 0.3279  | 9    | 9    | 0    | 4       | +5   | 3    | +6   | 15    | -6   | 6       | +3   | 6     | +3   |
 | BestExp(Mean)           | 0.2114  | 10   | 15   | -5   | 9       | +1   | 2    | +8   | 17    | -7   | 8       | +2   | 7     | +3   |
-| Ward\[4]                | 0.2045  | 11   | 3    | +8   | 5       | +6   | 10   | +1   | 4     | +7   | 2       | +9   | 11    | 0    |
-| Ashikhmin02\[61]        | 0.2018  | 12   | 13   | -1   | 18      | -6   | 20   | -8   | 13    | -1   | 14      | -2   | 14    | -2   |
-| Drago03\[5]             | 0.7236  | 1    | 1    | 0    | 3       | -2   | 13   | -12  | 2     | -1   | 7       | -6   | 8     | -7   |
-| Reinhard02(Local)\[28]  | -0.0317 | 15   | 10   | +5   | 6       | +9   | 14   | +1   | 12    | +3   | 3       | +12  | 5     | +10  |
-| Reinhard02(Global)\[28] | 0.3971  | 5    | 5    | 0    | 7       | -2   | 15   | -10  | 11    | -6   | 5       | 0    | 10    | -5   |
-| Reinhard05\[6]          | -0.1203 | 17   | 19   | -2   | 19      | -2   | 18   | -1   | 19    | -2   | 12      | +5   | 16    | +1   |
-| Lischinski06\[62]       | 0.3952  | 6    | 2    | +4   | 2       | +4   | 12   | -6   | 3     | +3   | 4       | +2   | 1     | +5   |
-| Kim08\[7]               | 0.6187  | 2    | 11   | -9   | 16      | -14  | 17   | -15  | 14    | -12  | 22      | -20  | 19    | -17  |
-| Raman09\[63]            | -0.6184 | 19   | 21   | -2   | 17      | +2   | 22   | -3   | 20    | -1   | 16      | +3   | 3     | +16  |
-| Shibata16\[65]          | 0.1801  | 13   | 7    | +6   | 14      | -1   | 16   | -3   | 6     | +7   | 13      | 0    | 12    | +1   |
-| DRLTM\[70]              | 0.0046  | 14   | 6    | +8   | 20      | -6   | 19   | -5   | 1     | +13  | 19      | -5   | 15    | -1   |
-| Le21\[71]               | -0.8817 | 20   | 18   | +2   | 15      | +5   | 1    | +19  | 7     | +13  | 21      | -1   | 20    | 0    |
-| TMO-GAN\[72]            | 0.4010  | 4    | 17   | -13  | 10      | -6   | 7    | -3   | 18    | -14  | 9       | -5   | 17    | -13  |
-| G-SemTMO\[73]           | -1.0018 | 22   | 22   | 0    | 22      | 0    | 6    | +16  | 23    | -1   | 23      | -1   | 22    | 0    |
-| UnCLTMO\[11]            | 0.3838  | 7    | 8    | -1   | 11      | -4   | 11   | -4   | 9     | -2   | 15      | -8   | 4     | +3   |
-| Unpaired-TMO\[69]       | 0.3753  | 8    | 14   | -6   | 8       | 0    | 5    | +3   | 10    | -2   | 10      | -2   | 9     | -1   |
-| ZSDH\[74]               | -1.4123 | 23   | 23   | 0    | 23      | 0    | 23   | 0    | 22    | +1   | 20      | +3   | 23    | 0    |
-| PS-TMO\[10]             | -0.9974 | 21   | 11   | +10  | 12      | +9   | 4    | +17  | 8     | +13  | 17      | +4   | 21    | 0    |
+| Ward                | 0.2045  | 11   | 3    | +8   | 5       | +6   | 10   | +1   | 4     | +7   | 2       | +9   | 11    | 0    |
+| Ashikhmin02        | 0.2018  | 12   | 13   | -1   | 18      | -6   | 20   | -8   | 13    | -1   | 14      | -2   | 14    | -2   |
+| Drago03             | 0.7236  | 1    | 1    | 0    | 3       | -2   | 13   | -12  | 2     | -1   | 7       | -6   | 8     | -7   |
+| Reinhard02(Local)  | -0.0317 | 15   | 10   | +5   | 6       | +9   | 14   | +1   | 12    | +3   | 3       | +12  | 5     | +10  |
+| Reinhard02(Global) | 0.3971  | 5    | 5    | 0    | 7       | -2   | 15   | -10  | 11    | -6   | 5       | 0    | 10    | -5   |
+| Reinhard05          | -0.1203 | 17   | 19   | -2   | 19      | -2   | 18   | -1   | 19    | -2   | 12      | +5   | 16    | +1   |
+| Lischinski06       | 0.3952  | 6    | 2    | +4   | 2       | +4   | 12   | -6   | 3     | +3   | 4       | +2   | 1     | +5   |
+| Kim08               | 0.6187  | 2    | 11   | -9   | 16      | -14  | 17   | -15  | 14    | -12  | 22      | -20  | 19    | -17  |
+| Raman09            | -0.6184 | 19   | 21   | -2   | 17      | +2   | 22   | -3   | 20    | -1   | 16      | +3   | 3     | +16  |
+| Shibata16          | 0.1801  | 13   | 7    | +6   | 14      | -1   | 16   | -3   | 6     | +7   | 13      | 0    | 12    | +1   |
+| DRLTM              | 0.0046  | 14   | 6    | +8   | 20      | -6   | 19   | -5   | 1     | +13  | 19      | -5   | 15    | -1   |
+| Le21               | -0.8817 | 20   | 18   | +2   | 15      | +5   | 1    | +19  | 7     | +13  | 21      | -1   | 20    | 0    |
+| TMO-GAN            | 0.4010  | 4    | 17   | -13  | 10      | -6   | 7    | -3   | 18    | -14  | 9       | -5   | 17    | -13  |
+| G-SemTMO           | -1.0018 | 22   | 22   | 0    | 22      | 0    | 6    | +16  | 23    | -1   | 23      | -1   | 22    | 0    |
+| UnCLTMO            | 0.3838  | 7    | 8    | -1   | 11      | -4   | 11   | -4   | 9     | -2   | 15      | -8   | 4     | +3   |
+| Unpaired-TMO       | 0.3753  | 8    | 14   | -6   | 8       | 0    | 5    | +3   | 10    | -2   | 10      | -2   | 9     | -1   |
+| ZSDH               | -1.4123 | 23   | 23   | 0    | 23      | 0    | 23   | 0    | 22    | +1   | 20      | +3   | 23    | 0    |
+| PS-TMO             | -0.9974 | 21   | 11   | +10  | 12      | +9   | 4    | +17  | 8     | +13  | 17      | +4   | 21    | 0    |
 
 Table 8 summarizes the correlation and ranking error between each objective metric and the subjective JOD ranking. TMQI achieves the highest Spearman and Kendall correlations and the lowest ranking RMSE; NLPD shows almost no monotonic agreement with human preference.
 
 | Objective metric | Spearman ρ↑ | Kendall τ-b↑ | Ranking RMSE↓ |
 | ---------------- | ----------- | ------------ | ------------- |
-| TMQI\[77]        | 0.6864      | 0.5386       | 5.2544        |
-| TMQI-II\[78]     | 0.6759      | 0.4862       | 5.3406        |
-| NLPD\[75]        | 0.0959      | 0.0634       | 8.9370        |
-| BTMQI\[85]       | 0.4496      | 0.3439       | 6.9595        |
-| HIGRADE\[86]     | 0.5464      | 0.4071       | 6.3177        |
-| FFTMI\[84]       | 0.5168      | 0.4229       | 6.5209        |
+| TMQI        | 0.6864      | 0.5386       | 5.2544        |
+| TMQI-II     | 0.6759      | 0.4862       | 5.3406        |
+| NLPD        | 0.0959      | 0.0634       | 8.9370        |
+| BTMQI       | 0.4496      | 0.3439       | 6.9595        |
+| HIGRADE     | 0.5464      | 0.4071       | 6.3177        |
+| FFTMI       | 0.5168      | 0.4229       | 6.5209        |
 
 | ![TMQI-II comparison of global local and deep TMOs](assets/figures/tmqi2-category-boxplot.png) | ![Subjective JOD ranking of tone mapping operators](assets/figures/subjective-jod-ranking.jpg) |
 | --- | --- |
